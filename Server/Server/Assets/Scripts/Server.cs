@@ -46,7 +46,13 @@ public class Server : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
-        if (Input.GetMouseButtonDown(0)) {
+        if (!UnityEditor.EditorApplication.isPlaying) {
+            LogHandler.Close();
         }
     }
+
+    private void OnDestroy() {
+        LogHandler.Close();
+    }
+
 }
