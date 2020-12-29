@@ -19,17 +19,16 @@ public class Server : MonoBehaviour {
     }
 
     private void Init() {
+        LogHandler.CreateLog();
+
+        Server.instance.Logger = Log;
         Server.instance.Events.ClientConnected += ClientConnected;
         Server.instance.Events.ClientDisconnected += ClientDisconnected;
         Server.instance.Events.DataReceived += DataReceived;
-        Server.instance.Logger = Log;
-
-        LogHandler.CreateLog();
     }
 
     private void Log(string msg) {
-        Debug.Log(msg);
-        LogHandler.LogMessage(LogLevel.Debug, this.name, msg);
+        LogHandler.LogMessage(LogLevel.Info, this.name, msg);
     }
 
     private void DataReceived(object sender, DataReceivedEventArgs e) {
@@ -46,12 +45,12 @@ public class Server : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
-        if (!UnityEditor.EditorApplication.isPlaying) {
-            LogHandler.Close();
-        }
+
     }
 
+    //Close the Logger when the program exits
     private void OnDestroy() {
+        Server.instance.Stop();
         LogHandler.Close();
     }
 

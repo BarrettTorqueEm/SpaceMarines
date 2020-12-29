@@ -16,13 +16,13 @@ public static class LogHandler {
     private static FileStream fs;
 
     public static void LogMessage(LogLevel lvl, object sender, string message) {
-        byte[] info = Encoding.UTF8.GetBytes($"[{lvl.ToString()}({sender}): {message}");
+        byte[] info = Encoding.UTF8.GetBytes($"[{lvl.ToString()}] ({sender} - {DateTime.Now.ToString("HH:mm:ss")}): {message} \n");
         fs.Write(info, 0, info.Length);
     }
 
     public static void LogMessage(LogLevel lvl, string sender, string message) {
 
-        byte[] info = Encoding.UTF8.GetBytes($"[{lvl.ToString()}({sender}): {message} \n");
+        byte[] info = Encoding.UTF8.GetBytes($"[{lvl.ToString()}] ({sender} - {DateTime.Now.ToString("HH:mm:ss")}): {message} \n");
         fs.Write(info, 0, info.Length);
     }
 

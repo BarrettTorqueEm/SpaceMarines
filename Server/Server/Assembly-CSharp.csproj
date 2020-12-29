@@ -38,6 +38,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Server.cs" />
      <Compile Include="Assets\Scripts\LogHandler.cs" />
+     <Compile Include="Assets\Scripts\Client.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
      <None Include="Assets\Packages\SuperSimpleTcp.2.2.1\lib\netstandard2.0\SimpleTcp.xml" />
     <Reference Include="UnityEngine">
         <HintPath>B:/2020.2.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
