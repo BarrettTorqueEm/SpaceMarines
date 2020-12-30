@@ -84,7 +84,7 @@ internal sealed class ScriptKeywordProcessor : UnityEditor.AssetModificationProc
     public static string UpdateFile(string file, CodeKeys k) {
 
         string contentRaw = string.Empty;
-        contentRaw = k.content.Replace("[Time]", System.DateTime.Now.ToString("dd/MM/yyyy HH:mm"));
+        contentRaw = k.content.Replace("[Time]", System.DateTime.Now.ToString("MM/dd/yyyy HH:mm"));
         contentRaw = contentRaw.Replace("[PlayerSettings.productName]", PlayerSettings.productName);
         contentRaw = contentRaw.Replace("[PlayerSettings.companyName]", PlayerSettings.companyName);
         contentRaw = contentRaw.Replace("[PlayerSettings.version]", Application.version);
