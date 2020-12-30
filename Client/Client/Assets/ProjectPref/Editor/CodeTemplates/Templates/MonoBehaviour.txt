@@ -1,0 +1,22 @@
+"Scripts/MonoBehaviour"
+/*===============================================================
+*Project:    #PROJECTNAME#
+*Developer:  #DEVELOPERNAME#
+*Company:    #COMPANY#
+*Date:       #CREATIONDATE#
+*Version:    #VERSION#
+*Description: 
+*================================================================*/
+/*===============================================================
+*   AUDIT LOG
+*
+*
+*================================================================*/
+using UnityEngine;
+using BarrettTorqueEm.Utilities;
+
+namespace #NAMESPACE#{
+    public class ##NAME## : MonoBehaviour {
+
+    }
+}

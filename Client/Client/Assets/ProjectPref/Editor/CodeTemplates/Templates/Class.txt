@@ -1,0 +1,21 @@
+"Scripts/Class"
+/*===============================================================
+*Project:    #PROJECTNAME#
+*Developer:  #DEVELOPERNAME#
+*Company:    #COMPANY#
+*Date:       #CREATIONDATE#
+*Version:    #VERSION#
+*Description: 
+*================================================================*/
+/*===============================================================
+*   AUDIT LOG
+*
+*
+*================================================================*/
+using BarrettTorqueEm.Utilities;
+
+namespace #NAMESPACE#{
+    public class ##NAME##{
+
+    }
+}
