@@ -1,6 +1,6 @@
 "Scripts/Class"
 /*===============================================================
-*Product:    #PROJECTNAME#
+*Project:    #PROJECTNAME#
 *Developer:  #DEVELOPERNAME#
 *Company:    #COMPANY#
 *Date:       #CREATIONDATE#
@@ -12,7 +12,6 @@
 *
 *
 *================================================================*/
-using UnityEngine;
 using BarrettTorqueEm.Utilities;
 
 namespace #NAMESPACE#{

@@ -1,6 +1,6 @@
 "Scripts/MonoBehaviour"
 /*===============================================================
-*Product:    #PROJECTNAME#
+*Project:    #PROJECTNAME#
 *Developer:  #DEVELOPERNAME#
 *Company:    #COMPANY#
 *Date:       #CREATIONDATE#
