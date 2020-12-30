@@ -13,19 +13,32 @@
 *================================================================*/
 using UnityEngine;
 using BarrettTorqueEm.Utilities;
+using UnityEngine.SceneManagement;
 
 namespace SM5_Client {
     public class SystemManager : MonoBehaviour {
+        public static SystemManager instance;
         ///<summary>
         ///Entire system init jobs
         ///</summary>
         private void Awake() {
             LogHandler.CreateLog();
-        }
-        private void Update() {
-            if (Input.GetMouseButtonDown(0)) {
-                LogHandler.LogMessage(LogLevel.Debug, this.name, "Test log");
+
+            if (instance == null) {
+                instance = this;
             }
+
+            DontDestroyOnLoad(this);
+        }
+
+        public void ChangeLevel(int BuildIndex) {
+            //FIXME: Scene name not printing correctly?
+            LogHandler.LogMessage(LogLevel.Info, this, $"Changing level from {SceneManager.GetActiveScene().name} to {BuildIndex} {SceneManager.GetSceneByBuildIndex(BuildIndex).name}");
+            SceneManager.LoadScene(BuildIndex);
+        }
+
+        private void OnApplicationQuit() {
+            LogHandler.Close();
         }
     }
 }

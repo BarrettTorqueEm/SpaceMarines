@@ -16,7 +16,6 @@ using BarrettTorqueEm.Utilities;
 
 namespace SM5_Client {
     public class UIManager : MonoBehaviour {
-
         public void Quit() {
             MenuTools.Quit();
         }
