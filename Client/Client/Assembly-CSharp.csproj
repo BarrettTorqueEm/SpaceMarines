@@ -36,9 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\BarrettTorqueEm\Utilities\LogHandler.cs" />
-     <Compile Include="Assets\BarrettTorqueEm\Utilities\LogLevel.cs" />
-     <Compile Include="Assets\BarrettTorqueEm\Utilities\MenuTools.cs" />
+     <Compile Include="Assets\Scripts\Utility\UIManager.cs" />
      <None Include="Assets\ProjectPref\Readme.txt" />
      <None Include="Assets\Packages\SuperSimpleTcp.2.2.1\lib\netstandard2.0\SimpleTcp.xml" />
     <Reference Include="UnityEngine">
