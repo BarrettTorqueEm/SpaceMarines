@@ -36,16 +36,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\MiniConsole\Scripts\ConsoleController.cs" />
-     <Compile Include="Assets\MiniConsole\Stubs\Stub_GraphicsInfo.cs" />
-     <Compile Include="Assets\MiniConsole\Scripts\ConsoleUtility.cs" />
-     <Compile Include="Assets\MiniConsole\Scripts\CommandStub.cs" />
-     <Compile Include="Assets\MiniConsole\Stubs\Stub_Application.cs" />
-     <Compile Include="Assets\MiniConsole\Scripts\CommandInterpreter.cs" />
-     <Compile Include="Assets\MiniConsole\Stubs\Stub_Resources.cs" />
-     <Compile Include="Assets\MiniConsole\Stubs\Stub_Sample.cs" />
-     <Compile Include="Assets\MiniConsole\Scripts\Handler.cs" />
-     <Compile Include="Assets\MiniConsole\Scripts\Library.cs" />
+     <Compile Include="Assets\BarrettTorqueEm\Utilities\LogHandler.cs" />
+     <Compile Include="Assets\BarrettTorqueEm\Utilities\LogLevel.cs" />
+     <Compile Include="Assets\BarrettTorqueEm\Utilities\MenuTools.cs" />
+     <None Include="Assets\ProjectPref\Readme.txt" />
      <None Include="Assets\Packages\SuperSimpleTcp.2.2.1\lib\netstandard2.0\SimpleTcp.xml" />
     <Reference Include="UnityEngine">
         <HintPath>B:/2020.2.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -269,11 +263,11 @@
     <Reference Include="UnityEditor.UnityConnectModule">
         <HintPath>B:/2020.2.0f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
-    <Reference Include="nunit.framework">
-        <HintPath>B:/SpaceMarines/Client/Client/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
-    </Reference>
     <Reference Include="SimpleTcp">
         <HintPath>B:/SpaceMarines/Client/Client/Assets/Packages/SuperSimpleTcp.2.2.1/lib/netstandard2.0/SimpleTcp.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+        <HintPath>B:/SpaceMarines/Client/Client/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>B:/2020.2.0f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -649,6 +643,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{8e399d07-fc4a-7ecd-7881-f923d075ebd1}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using SimpleTcp;
 using System;
+using BarrettTorqueEm.Utilities;
 
 public class Server : MonoBehaviour {
     public static SimpleTcpServer instance;
@@ -15,7 +16,6 @@ public class Server : MonoBehaviour {
         Init();
 
         instance.Start();
-
     }
 
     private void Init() {

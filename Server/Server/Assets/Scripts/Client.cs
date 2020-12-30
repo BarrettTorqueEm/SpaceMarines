@@ -1,6 +1,7 @@
 using System;
 using NUnit.Framework.Internal;
 using SimpleTcp;
+using BarrettTorqueEm.Utilities;
 
 public class Client {
     public SimpleTcpClient tcp { get; private set; }
