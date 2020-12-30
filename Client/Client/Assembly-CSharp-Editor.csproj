@@ -36,13 +36,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\ProjectPref\Editor\CodeTemplates\CodeTemplatesMenuItems.cs" />
-     <Compile Include="Assets\ProjectPref\Editor\ObjectGenerator.cs" />
-     <Compile Include="Assets\ProjectPref\Editor\CodeTemplates\CodeTemplates.cs" />
-     <Compile Include="Assets\ProjectPref\Editor\ProjectTreeGenerator.cs" />
-     <Compile Include="Assets\ProjectPref\Editor\SceneGenerator.cs" />
-     <Compile Include="Assets\ProjectPref\Editor\CodeTemplates\CodeTemplatesPostProcess.cs" />
      <Compile Include="Assets\ProjectPref\Editor\CodeTemplates\ScriptsKeywordProcessor.cs" />
+     <Compile Include="Assets\ProjectPref\Editor\SceneGenerator.cs" />
+     <Compile Include="Assets\ProjectPref\Editor\CodeTemplates\CodeTemplates.cs" />
+     <Compile Include="Assets\ProjectPref\Editor\CodeTemplates\CodeTemplatesPostProcess.cs" />
+     <Compile Include="Assets\ProjectPref\Editor\ObjectGenerator.cs" />
+     <Compile Include="Assets\ProjectPref\Editor\ProjectTreeGenerator.cs" />
+     <Compile Include="Assets\ProjectPref\Editor\CodeTemplates\CodeTemplatesMenuItems.cs" />
      <None Include="Assets\ProjectPref\Editor\CodeTemplates\TemplateMenuItem.txt" />
      <None Include="Assets\ProjectPref\Editor\CodeTemplates\CodeTemplatesMenuItems.txt" />
      <None Include="Assets\ProjectPref\Editor\CodeTemplates\Templates\MonoBehaviour.txt" />
@@ -677,6 +677,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{8e399d07-fc4a-7ecd-7881-f923d075ebd1}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{8441f412-22a4-275f-22e6-507969043f15}</Project>
       <Name>Assembly-CSharp</Name>
