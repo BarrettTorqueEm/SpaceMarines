@@ -1,0 +1,1752 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-12-30T17:04:01.270-05:00
+  initializedAtString: 2020-12-30T16:30:15.775-05:00
+  entries:
+  - path: Client\Client\Assembly-CSharp.csproj
+    fullPath: B:\SpaceMarines\Client\Client\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Assembly-CSharp-firstpass.csproj
+    fullPath: B:\SpaceMarines\Client\Client\Assembly-CSharp-firstpass.csproj
+    projectPath: Assembly-CSharp-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Assets\Scenes\TestWorld.unity
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Scenes\TestWorld.unity
+    projectPath: Assets\Scenes\TestWorld.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Scenes\TestWorld.unity.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Scenes\TestWorld.unity.meta
+    projectPath: Assets\Scenes\TestWorld.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets.meta
+    projectPath: Assets\Standard Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters.meta
+    projectPath: Assets\Standard Assets\Characters.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep01.wav
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep01.wav
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep01.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep01.wav.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep01.wav.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep01.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep02.wav
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep02.wav
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep02.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep02.wav.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep02.wav.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep02.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep03.wav
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep03.wav
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep03.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep03.wav.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep03.wav.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep03.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep04.wav
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep04.wav
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep04.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep04.wav.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep04.wav.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Footstep04.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Jump.wav
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Jump.wav
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Jump.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Jump.wav.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Jump.wav.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Jump.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Land.wav
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Land.wav
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Land.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Land.wav.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Land.wav.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Audio\Land.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\FPSController.prefab
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\FPSController.prefab
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\FPSController.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\FPSController.prefab.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\FPSController.prefab.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\FPSController.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\RigidBodyFPSController.prefab
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\RigidBodyFPSController.prefab
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\RigidBodyFPSController.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\RigidBodyFPSController.prefab.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\RigidBodyFPSController.prefab.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Prefabs\RigidBodyFPSController.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs.meta
+    projectPath: Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt
+    projectPath: Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\CarTiltControls.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\DualTouchControls.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileAircraftControls.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileSingleStickControl.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Prefabs\MobileTiltControlRig.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorOverSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonAcceleratorUpSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowOverSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonArrowUpSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeOverSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonBrakeUpSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonCameraCycleUpSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonResetSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonSpacebarSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickOverSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleFullUpSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonTimescaleSlowUpSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderBackgroundSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\SliderHandleSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\TouchpadSprite.png
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\TouchpadSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\TouchpadSprite.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\TouchpadSprite.png.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\CrossPlatformInput\Sprites\TouchpadSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\TouchpadSprite.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility.meta
+    projectPath: Assets\Standard Assets\Utility.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\ActivateTrigger.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\ActivateTrigger.cs
+    projectPath: Assets\Standard Assets\Utility\ActivateTrigger.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\ActivateTrigger.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\ActivateTrigger.cs.meta
+    projectPath: Assets\Standard Assets\Utility\ActivateTrigger.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\AlphaButtonClickMask.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\AlphaButtonClickMask.cs
+    projectPath: Assets\Standard Assets\Utility\AlphaButtonClickMask.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\AlphaButtonClickMask.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\AlphaButtonClickMask.cs.meta
+    projectPath: Assets\Standard Assets\Utility\AlphaButtonClickMask.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs
+    projectPath: Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs.meta
+    projectPath: Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\AutoMoveAndRotate.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\AutoMoveAndRotate.cs
+    projectPath: Assets\Standard Assets\Utility\AutoMoveAndRotate.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\AutoMoveAndRotate.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\AutoMoveAndRotate.cs.meta
+    projectPath: Assets\Standard Assets\Utility\AutoMoveAndRotate.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\CameraRefocus.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\CameraRefocus.cs
+    projectPath: Assets\Standard Assets\Utility\CameraRefocus.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\CameraRefocus.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\CameraRefocus.cs.meta
+    projectPath: Assets\Standard Assets\Utility\CameraRefocus.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\CurveControlledBob.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\CurveControlledBob.cs
+    projectPath: Assets\Standard Assets\Utility\CurveControlledBob.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\CurveControlledBob.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\CurveControlledBob.cs.meta
+    projectPath: Assets\Standard Assets\Utility\CurveControlledBob.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\DragRigidbody.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\DragRigidbody.cs
+    projectPath: Assets\Standard Assets\Utility\DragRigidbody.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\DragRigidbody.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\DragRigidbody.cs.meta
+    projectPath: Assets\Standard Assets\Utility\DragRigidbody.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\DynamicShadowSettings.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\DynamicShadowSettings.cs
+    projectPath: Assets\Standard Assets\Utility\DynamicShadowSettings.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\DynamicShadowSettings.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\DynamicShadowSettings.cs.meta
+    projectPath: Assets\Standard Assets\Utility\DynamicShadowSettings.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\EventSystemChecker.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\EventSystemChecker.cs
+    projectPath: Assets\Standard Assets\Utility\EventSystemChecker.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\EventSystemChecker.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\EventSystemChecker.cs.meta
+    projectPath: Assets\Standard Assets\Utility\EventSystemChecker.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\FollowTarget.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\FollowTarget.cs
+    projectPath: Assets\Standard Assets\Utility\FollowTarget.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\FollowTarget.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\FollowTarget.cs.meta
+    projectPath: Assets\Standard Assets\Utility\FollowTarget.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\ForcedReset.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\ForcedReset.cs
+    projectPath: Assets\Standard Assets\Utility\ForcedReset.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\ForcedReset.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\ForcedReset.cs.meta
+    projectPath: Assets\Standard Assets\Utility\ForcedReset.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\FOVKick.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\FOVKick.cs
+    projectPath: Assets\Standard Assets\Utility\FOVKick.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\FOVKick.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\FOVKick.cs.meta
+    projectPath: Assets\Standard Assets\Utility\FOVKick.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\FPSCounter.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\FPSCounter.cs
+    projectPath: Assets\Standard Assets\Utility\FPSCounter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\FPSCounter.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\FPSCounter.cs.meta
+    projectPath: Assets\Standard Assets\Utility\FPSCounter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\LerpControlledBob.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\LerpControlledBob.cs
+    projectPath: Assets\Standard Assets\Utility\LerpControlledBob.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\LerpControlledBob.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\LerpControlledBob.cs.meta
+    projectPath: Assets\Standard Assets\Utility\LerpControlledBob.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\ObjectResetter.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\ObjectResetter.cs
+    projectPath: Assets\Standard Assets\Utility\ObjectResetter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\ObjectResetter.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\ObjectResetter.cs.meta
+    projectPath: Assets\Standard Assets\Utility\ObjectResetter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs
+    projectPath: Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs.meta
+    projectPath: Assets\Standard Assets\Utility\ParticleSystemDestroyer.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\PlatformSpecificContent.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\PlatformSpecificContent.cs
+    projectPath: Assets\Standard Assets\Utility\PlatformSpecificContent.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\PlatformSpecificContent.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\PlatformSpecificContent.cs.meta
+    projectPath: Assets\Standard Assets\Utility\PlatformSpecificContent.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\Prefabs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\Prefabs.meta
+    projectPath: Assets\Standard Assets\Utility\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\Prefabs\FramerateCounter.prefab
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\Prefabs\FramerateCounter.prefab
+    projectPath: Assets\Standard Assets\Utility\Prefabs\FramerateCounter.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\Prefabs\FramerateCounter.prefab.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\Prefabs\FramerateCounter.prefab.meta
+    projectPath: Assets\Standard Assets\Utility\Prefabs\FramerateCounter.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\SimpleMouseRotator.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\SimpleMouseRotator.cs
+    projectPath: Assets\Standard Assets\Utility\SimpleMouseRotator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\SimpleMouseRotator.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\SimpleMouseRotator.cs.meta
+    projectPath: Assets\Standard Assets\Utility\SimpleMouseRotator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\SmoothFollow.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\SmoothFollow.cs
+    projectPath: Assets\Standard Assets\Utility\SmoothFollow.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\SmoothFollow.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\SmoothFollow.cs.meta
+    projectPath: Assets\Standard Assets\Utility\SmoothFollow.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\TimedObjectActivator.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\TimedObjectActivator.cs
+    projectPath: Assets\Standard Assets\Utility\TimedObjectActivator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\TimedObjectActivator.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\TimedObjectActivator.cs.meta
+    projectPath: Assets\Standard Assets\Utility\TimedObjectActivator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\TimedObjectDestructor.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\TimedObjectDestructor.cs
+    projectPath: Assets\Standard Assets\Utility\TimedObjectDestructor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\TimedObjectDestructor.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\TimedObjectDestructor.cs.meta
+    projectPath: Assets\Standard Assets\Utility\TimedObjectDestructor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\WaypointCircuit.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\WaypointCircuit.cs
+    projectPath: Assets\Standard Assets\Utility\WaypointCircuit.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\WaypointCircuit.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\WaypointCircuit.cs.meta
+    projectPath: Assets\Standard Assets\Utility\WaypointCircuit.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\WaypointProgressTracker.cs
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\WaypointProgressTracker.cs
+    projectPath: Assets\Standard Assets\Utility\WaypointProgressTracker.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Assets\Standard Assets\Utility\WaypointProgressTracker.cs.meta
+    fullPath: B:\SpaceMarines\Client\Client\Assets\Standard Assets\Utility\WaypointProgressTracker.cs.meta
+    projectPath: Assets\Standard Assets\Utility\WaypointProgressTracker.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ArtifactDB
+    fullPath: B:\SpaceMarines\Client\Client\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\Artifacts\00\00cde503c71b1df03606d2563d2b0539
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\00\00cde503c71b1df03606d2563d2b0539
+    projectPath: Library\Artifacts\00\00cde503c71b1df03606d2563d2b0539
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\04\041db6392326fc1a5d7a5910e2e6317c
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\04\041db6392326fc1a5d7a5910e2e6317c
+    projectPath: Library\Artifacts\04\041db6392326fc1a5d7a5910e2e6317c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\07\07a58bc5ef82bf08ab05402659d64547
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\07\07a58bc5ef82bf08ab05402659d64547
+    projectPath: Library\Artifacts\07\07a58bc5ef82bf08ab05402659d64547
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\08\0856015119377eed673ab5ffa9ee9ec8
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\08\0856015119377eed673ab5ffa9ee9ec8
+    projectPath: Library\Artifacts\08\0856015119377eed673ab5ffa9ee9ec8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\0a\0a50aeb3ebd80d686698603af1475014
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0a\0a50aeb3ebd80d686698603af1475014
+    projectPath: Library\Artifacts\0a\0a50aeb3ebd80d686698603af1475014
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\0a\0afb90465d967d9116e9ceecc3880e79
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0a\0afb90465d967d9116e9ceecc3880e79
+    projectPath: Library\Artifacts\0a\0afb90465d967d9116e9ceecc3880e79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\0b\0b017d35420081fa12d2beb15138b0c8
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0b\0b017d35420081fa12d2beb15138b0c8
+    projectPath: Library\Artifacts\0b\0b017d35420081fa12d2beb15138b0c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\0e\0eaa105c1c7b986267935235f684b888
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0e\0eaa105c1c7b986267935235f684b888
+    projectPath: Library\Artifacts\0e\0eaa105c1c7b986267935235f684b888
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\0e\0eac413e840cb8458a28f9dec2a2d26d
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0e\0eac413e840cb8458a28f9dec2a2d26d
+    projectPath: Library\Artifacts\0e\0eac413e840cb8458a28f9dec2a2d26d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\0e\0eb13e5c01b087a2c5d30f8583138b64
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0e\0eb13e5c01b087a2c5d30f8583138b64
+    projectPath: Library\Artifacts\0e\0eb13e5c01b087a2c5d30f8583138b64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\0e\0ecc89bcc41a029dea8fcb32030a908d
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0e\0ecc89bcc41a029dea8fcb32030a908d
+    projectPath: Library\Artifacts\0e\0ecc89bcc41a029dea8fcb32030a908d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\11\11ef07fe386cffa144c4a1ea917b8513
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\11\11ef07fe386cffa144c4a1ea917b8513
+    projectPath: Library\Artifacts\11\11ef07fe386cffa144c4a1ea917b8513
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\13\13a939d548dbc83ceaadbad56823fa33
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\13\13a939d548dbc83ceaadbad56823fa33
+    projectPath: Library\Artifacts\13\13a939d548dbc83ceaadbad56823fa33
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\15\15f058227313b088d7445ba8a165f0ae
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\15\15f058227313b088d7445ba8a165f0ae
+    projectPath: Library\Artifacts\15\15f058227313b088d7445ba8a165f0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\1b\1b434d21fed72e5af37e4117908e4636
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\1b\1b434d21fed72e5af37e4117908e4636
+    projectPath: Library\Artifacts\1b\1b434d21fed72e5af37e4117908e4636
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\24\2492095e10d3a2f8addfdfa87789fd77
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\24\2492095e10d3a2f8addfdfa87789fd77
+    projectPath: Library\Artifacts\24\2492095e10d3a2f8addfdfa87789fd77
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\24\24d37f0096dd129763e910b94620c83e
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\24\24d37f0096dd129763e910b94620c83e
+    projectPath: Library\Artifacts\24\24d37f0096dd129763e910b94620c83e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\2b\2bc6739b04baca02c768c9b69498124c
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\2b\2bc6739b04baca02c768c9b69498124c
+    projectPath: Library\Artifacts\2b\2bc6739b04baca02c768c9b69498124c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\2c\2cb22ffec1c01e0ca0bcd806cef712e4
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\2c\2cb22ffec1c01e0ca0bcd806cef712e4
+    projectPath: Library\Artifacts\2c\2cb22ffec1c01e0ca0bcd806cef712e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\2d\2dad93965d273f615cc3c4d35969ebd0
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\2d\2dad93965d273f615cc3c4d35969ebd0
+    projectPath: Library\Artifacts\2d\2dad93965d273f615cc3c4d35969ebd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\2d\2de0e4e5be095bdb81a2a6b1dc70fa73
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\2d\2de0e4e5be095bdb81a2a6b1dc70fa73
+    projectPath: Library\Artifacts\2d\2de0e4e5be095bdb81a2a6b1dc70fa73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\2e\2e6fd1327c3ae171779c5d678595b407
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\2e\2e6fd1327c3ae171779c5d678595b407
+    projectPath: Library\Artifacts\2e\2e6fd1327c3ae171779c5d678595b407
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\2e\2ef8bda6cae74111b47dc04340aa6c6b
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\2e\2ef8bda6cae74111b47dc04340aa6c6b
+    projectPath: Library\Artifacts\2e\2ef8bda6cae74111b47dc04340aa6c6b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\34\34acf27a7dc8e8eef53870176932cb81
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\34\34acf27a7dc8e8eef53870176932cb81
+    projectPath: Library\Artifacts\34\34acf27a7dc8e8eef53870176932cb81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\37\376c2874d9c1f575659b7732b064c374
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\37\376c2874d9c1f575659b7732b064c374
+    projectPath: Library\Artifacts\37\376c2874d9c1f575659b7732b064c374
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\37\37735f11dca2c554132215e265378ed4
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\37\37735f11dca2c554132215e265378ed4
+    projectPath: Library\Artifacts\37\37735f11dca2c554132215e265378ed4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\3a\3a88ed8e0481e54fda5a42a6c4d2d1f3
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3a\3a88ed8e0481e54fda5a42a6c4d2d1f3
+    projectPath: Library\Artifacts\3a\3a88ed8e0481e54fda5a42a6c4d2d1f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\3a\3ad2a4dac1e6eb8902c5f4da57c4d7fe
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3a\3ad2a4dac1e6eb8902c5f4da57c4d7fe
+    projectPath: Library\Artifacts\3a\3ad2a4dac1e6eb8902c5f4da57c4d7fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\3c\3ce762a997da891a314c367030b8089d
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3c\3ce762a997da891a314c367030b8089d
+    projectPath: Library\Artifacts\3c\3ce762a997da891a314c367030b8089d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\40\40cacc5fa2469316d0df8c2854d77b3d
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\40\40cacc5fa2469316d0df8c2854d77b3d
+    projectPath: Library\Artifacts\40\40cacc5fa2469316d0df8c2854d77b3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\4e\4ea2fcac6c6d4648d3c62a21e85d8819
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\4e\4ea2fcac6c6d4648d3c62a21e85d8819
+    projectPath: Library\Artifacts\4e\4ea2fcac6c6d4648d3c62a21e85d8819
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\4e\4ed3d71debc93731974ed2ea97aaf409
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\4e\4ed3d71debc93731974ed2ea97aaf409
+    projectPath: Library\Artifacts\4e\4ed3d71debc93731974ed2ea97aaf409
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\54\54dd071834c5a81bc23ad52bb5f2e5a3
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\54\54dd071834c5a81bc23ad52bb5f2e5a3
+    projectPath: Library\Artifacts\54\54dd071834c5a81bc23ad52bb5f2e5a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\55\554bcd2d94686cfce8f6e9c7542fbffb
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\55\554bcd2d94686cfce8f6e9c7542fbffb
+    projectPath: Library\Artifacts\55\554bcd2d94686cfce8f6e9c7542fbffb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\56\5639305a4ef35179f72e2297e5fd4922
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\56\5639305a4ef35179f72e2297e5fd4922
+    projectPath: Library\Artifacts\56\5639305a4ef35179f72e2297e5fd4922
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\5b\5bd7e0a214c0b1eda09001ed0b47fdf5
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\5b\5bd7e0a214c0b1eda09001ed0b47fdf5
+    projectPath: Library\Artifacts\5b\5bd7e0a214c0b1eda09001ed0b47fdf5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\5d\5da8dfb43de40f1bf2c42695584a8ab8
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\5d\5da8dfb43de40f1bf2c42695584a8ab8
+    projectPath: Library\Artifacts\5d\5da8dfb43de40f1bf2c42695584a8ab8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\5d\5ddb463dff729cd1ce7d95927d66c268
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\5d\5ddb463dff729cd1ce7d95927d66c268
+    projectPath: Library\Artifacts\5d\5ddb463dff729cd1ce7d95927d66c268
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\5f\5f78adc6a90ef7a9d2dce9fdd9006903
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\5f\5f78adc6a90ef7a9d2dce9fdd9006903
+    projectPath: Library\Artifacts\5f\5f78adc6a90ef7a9d2dce9fdd9006903
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\60\609f457ce35e8ba409b214987406f632
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\60\609f457ce35e8ba409b214987406f632
+    projectPath: Library\Artifacts\60\609f457ce35e8ba409b214987406f632
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\60\60e04354ee1a5836df40621d05ad1d0a
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\60\60e04354ee1a5836df40621d05ad1d0a
+    projectPath: Library\Artifacts\60\60e04354ee1a5836df40621d05ad1d0a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\62\62e50f8d41c2516ab20861c07d764937
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\62\62e50f8d41c2516ab20861c07d764937
+    projectPath: Library\Artifacts\62\62e50f8d41c2516ab20861c07d764937
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\63\639a16a73b5e66f81b5e59eeb0039a1b
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\63\639a16a73b5e66f81b5e59eeb0039a1b
+    projectPath: Library\Artifacts\63\639a16a73b5e66f81b5e59eeb0039a1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\67\674e500a9d0d87a3afa1c773efac024a
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\67\674e500a9d0d87a3afa1c773efac024a
+    projectPath: Library\Artifacts\67\674e500a9d0d87a3afa1c773efac024a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\69\69fd183483fff49c9c8dbee8c18f52ad
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\69\69fd183483fff49c9c8dbee8c18f52ad
+    projectPath: Library\Artifacts\69\69fd183483fff49c9c8dbee8c18f52ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\6d\6d36618d23a32a24a7ec16e4aaff3f13
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\6d\6d36618d23a32a24a7ec16e4aaff3f13
+    projectPath: Library\Artifacts\6d\6d36618d23a32a24a7ec16e4aaff3f13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\70\70b2d435f965d79e9862ba28ba84c1e8
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\70\70b2d435f965d79e9862ba28ba84c1e8
+    projectPath: Library\Artifacts\70\70b2d435f965d79e9862ba28ba84c1e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\72\727be81c6327c2a7b39aa27236ae2388
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\72\727be81c6327c2a7b39aa27236ae2388
+    projectPath: Library\Artifacts\72\727be81c6327c2a7b39aa27236ae2388
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\77\7786143f99ab365d401c7f75d70ef5d0
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\77\7786143f99ab365d401c7f75d70ef5d0
+    projectPath: Library\Artifacts\77\7786143f99ab365d401c7f75d70ef5d0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Client\Client\Library\Artifacts\77\77ed85674a654d0306f99f943dd1a670
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\77\77ed85674a654d0306f99f943dd1a670
+    projectPath: Library\Artifacts\77\77ed85674a654d0306f99f943dd1a670
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\78\78430b7e10d0772ef1d06186228f606d
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\78\78430b7e10d0772ef1d06186228f606d
+    projectPath: Library\Artifacts\78\78430b7e10d0772ef1d06186228f606d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\7e\7e6c5114b3f8f3c42eebc2388dceb918
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\7e\7e6c5114b3f8f3c42eebc2388dceb918
+    projectPath: Library\Artifacts\7e\7e6c5114b3f8f3c42eebc2388dceb918
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\83\8306be0b30a3c61269332f725b2de59f
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\83\8306be0b30a3c61269332f725b2de59f
+    projectPath: Library\Artifacts\83\8306be0b30a3c61269332f725b2de59f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\86\861a62cedd274061734c8763150378b0
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\86\861a62cedd274061734c8763150378b0
+    projectPath: Library\Artifacts\86\861a62cedd274061734c8763150378b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\87\8764f1a698fb420ff3e9ddac5e4c2905
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\87\8764f1a698fb420ff3e9ddac5e4c2905
+    projectPath: Library\Artifacts\87\8764f1a698fb420ff3e9ddac5e4c2905
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Client\Client\Library\Artifacts\87\87de1a096810a572575e6804269eaabc
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\87\87de1a096810a572575e6804269eaabc
+    projectPath: Library\Artifacts\87\87de1a096810a572575e6804269eaabc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\8c\8c807716d476506b802305ff78637b16
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\8c\8c807716d476506b802305ff78637b16
+    projectPath: Library\Artifacts\8c\8c807716d476506b802305ff78637b16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\8e\8e5288e71cfd0fe1a9bb978ed69bb8cd
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\8e\8e5288e71cfd0fe1a9bb978ed69bb8cd
+    projectPath: Library\Artifacts\8e\8e5288e71cfd0fe1a9bb978ed69bb8cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\93\9311ecb23f3478c5d8e15ee8fb7a79e2
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\93\9311ecb23f3478c5d8e15ee8fb7a79e2
+    projectPath: Library\Artifacts\93\9311ecb23f3478c5d8e15ee8fb7a79e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\95\95546e8ff28ab3d6566cbdcfd3848d90
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\95\95546e8ff28ab3d6566cbdcfd3848d90
+    projectPath: Library\Artifacts\95\95546e8ff28ab3d6566cbdcfd3848d90
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\98\98923c5eaf0e38f4a3b4c6d8262765a6
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\98\98923c5eaf0e38f4a3b4c6d8262765a6
+    projectPath: Library\Artifacts\98\98923c5eaf0e38f4a3b4c6d8262765a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\9a\9aef3b6f02d18a31b9eb81a0a06e3e40
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9a\9aef3b6f02d18a31b9eb81a0a06e3e40
+    projectPath: Library\Artifacts\9a\9aef3b6f02d18a31b9eb81a0a06e3e40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\9c\9cb89055708a4d2f8bd0263b68b24e50
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9c\9cb89055708a4d2f8bd0263b68b24e50
+    projectPath: Library\Artifacts\9c\9cb89055708a4d2f8bd0263b68b24e50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\9d\9d21e44831125cf64c0b9d43cdc1bd63
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9d\9d21e44831125cf64c0b9d43cdc1bd63
+    projectPath: Library\Artifacts\9d\9d21e44831125cf64c0b9d43cdc1bd63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\9d\9deb0b970c0941194108fc5dd2176397
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9d\9deb0b970c0941194108fc5dd2176397
+    projectPath: Library\Artifacts\9d\9deb0b970c0941194108fc5dd2176397
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\9e\9e406d20bb95508ea0d4c9bca50187d5
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9e\9e406d20bb95508ea0d4c9bca50187d5
+    projectPath: Library\Artifacts\9e\9e406d20bb95508ea0d4c9bca50187d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\a2\a2bbdb52c4758ba23c03d461f6d00116
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a2\a2bbdb52c4758ba23c03d461f6d00116
+    projectPath: Library\Artifacts\a2\a2bbdb52c4758ba23c03d461f6d00116
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\a2\a2eb279251bc8f86d3d20f286836b640
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a2\a2eb279251bc8f86d3d20f286836b640
+    projectPath: Library\Artifacts\a2\a2eb279251bc8f86d3d20f286836b640
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\a5\a59064ef3571638eb11ed571c2c73132
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a5\a59064ef3571638eb11ed571c2c73132
+    projectPath: Library\Artifacts\a5\a59064ef3571638eb11ed571c2c73132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\a9\a938573dbfb6a624358f95965deb93f2
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a9\a938573dbfb6a624358f95965deb93f2
+    projectPath: Library\Artifacts\a9\a938573dbfb6a624358f95965deb93f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\ab\ab621665655efb1837af8682a6713ddf
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\ab\ab621665655efb1837af8682a6713ddf
+    projectPath: Library\Artifacts\ab\ab621665655efb1837af8682a6713ddf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\af\af65ca1cc4ab30c9fab710273a69823a
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\af\af65ca1cc4ab30c9fab710273a69823a
+    projectPath: Library\Artifacts\af\af65ca1cc4ab30c9fab710273a69823a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\af\afd42f935e412e45ac355cd46026585f
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\af\afd42f935e412e45ac355cd46026585f
+    projectPath: Library\Artifacts\af\afd42f935e412e45ac355cd46026585f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\b4\b4d76cd7a1c9621a1c48b3fcafa948db
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b4\b4d76cd7a1c9621a1c48b3fcafa948db
+    projectPath: Library\Artifacts\b4\b4d76cd7a1c9621a1c48b3fcafa948db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\b5\b5ea5b8828dae4c2caf9a7085c206749
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b5\b5ea5b8828dae4c2caf9a7085c206749
+    projectPath: Library\Artifacts\b5\b5ea5b8828dae4c2caf9a7085c206749
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\bf\bf8af3af2aee563dfbe8770bc361681a
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\bf\bf8af3af2aee563dfbe8770bc361681a
+    projectPath: Library\Artifacts\bf\bf8af3af2aee563dfbe8770bc361681a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\bf\bf9869c1c6020ae6494c0a94a005b38a
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\bf\bf9869c1c6020ae6494c0a94a005b38a
+    projectPath: Library\Artifacts\bf\bf9869c1c6020ae6494c0a94a005b38a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\c0\c06392acb8c847dd530023f1ab88c6cc
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c0\c06392acb8c847dd530023f1ab88c6cc
+    projectPath: Library\Artifacts\c0\c06392acb8c847dd530023f1ab88c6cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\c0\c0899af6abec3844911a59c3872e9d01
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c0\c0899af6abec3844911a59c3872e9d01
+    projectPath: Library\Artifacts\c0\c0899af6abec3844911a59c3872e9d01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\c2\c2e96c3f5b7ae4c2399bafce85983815
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c2\c2e96c3f5b7ae4c2399bafce85983815
+    projectPath: Library\Artifacts\c2\c2e96c3f5b7ae4c2399bafce85983815
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\c6\c65e175201cc622fe856aa42121bd0c5
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c6\c65e175201cc622fe856aa42121bd0c5
+    projectPath: Library\Artifacts\c6\c65e175201cc622fe856aa42121bd0c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\c7\c72cc7f5e49f79945da734940d9d481c
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c7\c72cc7f5e49f79945da734940d9d481c
+    projectPath: Library\Artifacts\c7\c72cc7f5e49f79945da734940d9d481c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\c9\c943fdab9475617437ad94017635d911
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c9\c943fdab9475617437ad94017635d911
+    projectPath: Library\Artifacts\c9\c943fdab9475617437ad94017635d911
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\cf\cfb78a0d681739384ed96d98261f73cb
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\cf\cfb78a0d681739384ed96d98261f73cb
+    projectPath: Library\Artifacts\cf\cfb78a0d681739384ed96d98261f73cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\d1\d1d3c73fa6d0ea6f9068b1a62f5d56ab
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d1\d1d3c73fa6d0ea6f9068b1a62f5d56ab
+    projectPath: Library\Artifacts\d1\d1d3c73fa6d0ea6f9068b1a62f5d56ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\d3\d3e0cb175ca566d5b867183390fc23ab
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d3\d3e0cb175ca566d5b867183390fc23ab
+    projectPath: Library\Artifacts\d3\d3e0cb175ca566d5b867183390fc23ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\d3\d3f56fb7ac6d86f37adc7a01b2d4dcb5
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d3\d3f56fb7ac6d86f37adc7a01b2d4dcb5
+    projectPath: Library\Artifacts\d3\d3f56fb7ac6d86f37adc7a01b2d4dcb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\d5\d51199b28c4a8fe6f37e651ce8cb5b09
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d5\d51199b28c4a8fe6f37e651ce8cb5b09
+    projectPath: Library\Artifacts\d5\d51199b28c4a8fe6f37e651ce8cb5b09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\d8\d8847b09bb75303fbab85503e8e77638
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d8\d8847b09bb75303fbab85503e8e77638
+    projectPath: Library\Artifacts\d8\d8847b09bb75303fbab85503e8e77638
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\da\daf6b2b4bec7474042a82ff2cf3c6b41
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\da\daf6b2b4bec7474042a82ff2cf3c6b41
+    projectPath: Library\Artifacts\da\daf6b2b4bec7474042a82ff2cf3c6b41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\e1\e144ee1b43d0a21b221d6ee50f3e3ce7
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e1\e144ee1b43d0a21b221d6ee50f3e3ce7
+    projectPath: Library\Artifacts\e1\e144ee1b43d0a21b221d6ee50f3e3ce7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\e7\e7fe6824f64bc422ce2f502766b82d1a
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e7\e7fe6824f64bc422ce2f502766b82d1a
+    projectPath: Library\Artifacts\e7\e7fe6824f64bc422ce2f502766b82d1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\f3\f3eb0e07c17cb1a7f404fd58985fcfc9
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\f3\f3eb0e07c17cb1a7f404fd58985fcfc9
+    projectPath: Library\Artifacts\f3\f3eb0e07c17cb1a7f404fd58985fcfc9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\EditorInstance.json
+    fullPath: B:\SpaceMarines\Client\Client\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\EditorSnapSettings.asset
+    fullPath: B:\SpaceMarines\Client\Client\Library\EditorSnapSettings.asset
+    projectPath: Library\EditorSnapSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\gfu\cache\branches.yaml
+    fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\gfu\cache\gitlocks.yaml
+    fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\gfu\cache\gitlog.yaml
+    fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\gfu\cache\gituser.yaml
+    fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\gfu\cache\repoinfo.yaml
+    fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\InspectorExpandedItems.asset
+    fullPath: B:\SpaceMarines\Client\Client\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\PackageManager\ProjectCache
+    fullPath: B:\SpaceMarines\Client\Client\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\PackageManager\ProjectCache.md5
+    fullPath: B:\SpaceMarines\Client\Client\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\SceneVisibilityState.asset
+    fullPath: B:\SpaceMarines\Client\Client\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: B:\SpaceMarines\Client\Client\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+    fullPath: B:\SpaceMarines\Client\Client\Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\ShaderCache\0\08efe0908ca372461505fa3b45de37d3.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\0\08efe0908ca372461505fa3b45de37d3.bin
+    projectPath: Library\ShaderCache\0\08efe0908ca372461505fa3b45de37d3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ShaderCache\1\14264c2dc54f3ccc8406f976d227dda7.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\1\14264c2dc54f3ccc8406f976d227dda7.bin
+    projectPath: Library\ShaderCache\1\14264c2dc54f3ccc8406f976d227dda7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ShaderCache\2\2319dc9cef293a100ac88bca48887dac.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\2\2319dc9cef293a100ac88bca48887dac.bin
+    projectPath: Library\ShaderCache\2\2319dc9cef293a100ac88bca48887dac.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ShaderCache\3\33468590dbc65bfe5654f6b88a6c04c2.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\3\33468590dbc65bfe5654f6b88a6c04c2.bin
+    projectPath: Library\ShaderCache\3\33468590dbc65bfe5654f6b88a6c04c2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ShaderCache\4\484a3ff0848a30f27f1f2ff39f11398d.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\4\484a3ff0848a30f27f1f2ff39f11398d.bin
+    projectPath: Library\ShaderCache\4\484a3ff0848a30f27f1f2ff39f11398d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ShaderCache\5\5b50b37ab7fdfbe6798a4500787b7555.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\5\5b50b37ab7fdfbe6798a4500787b7555.bin
+    projectPath: Library\ShaderCache\5\5b50b37ab7fdfbe6798a4500787b7555.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ShaderCache\7\7155d73904ce064124e61439ee6a75af.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\7\7155d73904ce064124e61439ee6a75af.bin
+    projectPath: Library\ShaderCache\7\7155d73904ce064124e61439ee6a75af.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ShaderCache\8\82adff918f0e42b373ae2acf73742b51.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\8\82adff918f0e42b373ae2acf73742b51.bin
+    projectPath: Library\ShaderCache\8\82adff918f0e42b373ae2acf73742b51.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ShaderCache\b\b094130a06424ebe6544a1beb3f111e4.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\b\b094130a06424ebe6544a1beb3f111e4.bin
+    projectPath: Library\ShaderCache\b\b094130a06424ebe6544a1beb3f111e4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ShaderCache\d\d38b4040f9368a49131dddf07000ecdf.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\d\d38b4040f9368a49131dddf07000ecdf.bin
+    projectPath: Library\ShaderCache\d\d38b4040f9368a49131dddf07000ecdf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ShaderCache\d\df1f898935637d4c6d9290a2c5fed5e9.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\d\df1f898935637d4c6d9290a2c5fed5e9.bin
+    projectPath: Library\ShaderCache\d\df1f898935637d4c6d9290a2c5fed5e9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\ShaderCache\f\fdc63a92d88633fb253c1da6ee2ba57d.bin
+    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\f\fdc63a92d88633fb253c1da6ee2ba57d.bin
+    projectPath: Library\ShaderCache\f\fdc63a92d88633fb253c1da6ee2ba57d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: B:\SpaceMarines\Client\Client\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: B:\SpaceMarines\Client\Client\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: B:\SpaceMarines\Client\Client\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\SourceAssetDB
+    fullPath: B:\SpaceMarines\Client\Client\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\StateCache\MainStageHierarchy\45\45e08d13e566c1beee85d215812a251e.json
+    fullPath: B:\SpaceMarines\Client\Client\Library\StateCache\MainStageHierarchy\45\45e08d13e566c1beee85d215812a251e.json
+    projectPath: Library\StateCache\MainStageHierarchy\45\45e08d13e566c1beee85d215812a251e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\StateCache\PrefabStageHierarchy\ba\ba26123671d0c6afca600cc15f5c7389.json
+    fullPath: B:\SpaceMarines\Client\Client\Library\StateCache\PrefabStageHierarchy\ba\ba26123671d0c6afca600cc15f5c7389.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\ba\ba26123671d0c6afca600cc15f5c7389.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\StateCache\SceneView\51\518ab5e344985c1b77181cf2cde6a734.json
+    fullPath: B:\SpaceMarines\Client\Client\Library\StateCache\SceneView\51\518ab5e344985c1b77181cf2cde6a734.json
+    projectPath: Library\StateCache\SceneView\51\518ab5e344985c1b77181cf2cde6a734.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Library\StateCache\SceneView\69\696e8634915081c3d4a80d34c9032562.json
+    fullPath: B:\SpaceMarines\Client\Client\Library\StateCache\SceneView\69\696e8634915081c3d4a80d34c9032562.json
+    projectPath: Library\StateCache\SceneView\69\696e8634915081c3d4a80d34c9032562.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: B:\SpaceMarines\Client\Client\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Client\Client\Logs\ApiUpdaterCheck.txt
+    fullPath: B:\SpaceMarines\Client\Client\Logs\ApiUpdaterCheck.txt
+    projectPath: Logs\ApiUpdaterCheck.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Logs\AssetImportWorker0.log
+    fullPath: B:\SpaceMarines\Client\Client\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\ProjectSettings\Packages\com.unity.probuilder\Settings.json
+    fullPath: B:\SpaceMarines\Client\Client\ProjectSettings\Packages\com.unity.probuilder\Settings.json
+    projectPath: ProjectSettings\Packages\com.unity.probuilder\Settings.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

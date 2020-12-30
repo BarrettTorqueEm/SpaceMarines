@@ -616,11 +616,17 @@
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+        <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
         <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
         <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+        <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
         <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
@@ -631,11 +637,14 @@
     <Reference Include="Unity.TextMeshPro">
         <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder">
+        <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.Editor">
+        <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Rider.Editor">
-        <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>B:/SpaceMarines/Client/Client/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>

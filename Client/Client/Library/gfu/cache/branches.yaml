@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2020-12-30T17:02:17.173-05:00
+  initializedAtString: 2020-12-30T16:30:31.349-05:00
+  localBranches:
+  - name: main
+    tracking: origin/main
+  - name: TestWorld
+    tracking: origin/TestWorld
+  - name: v1.0
+    tracking: origin/v1.0
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
+    tracking: '[None]'
+  - name: origin/TestWorld
+    tracking: '[None]'
+  - name: origin/v1.0
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/BarrettTorqueEm/SpaceMarines.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - main
+    - TestWorld
+    - v1.0
+    values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/BarrettTorqueEm/SpaceMarines.git
+      trackingBranch: main
+    - name: TestWorld
+      remote:
+        name: origin
+        url: https://github.com/BarrettTorqueEm/SpaceMarines.git
+      trackingBranch: TestWorld
+    - name: v1.0
+      remote:
+        name: origin
+        url: https://github.com/BarrettTorqueEm/SpaceMarines.git
+      trackingBranch: v1.0
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+      - main
+      - TestWorld
+      - v1.0
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/BarrettTorqueEm/SpaceMarines.git
+        trackingBranch: 
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/BarrettTorqueEm/SpaceMarines.git
+        trackingBranch: 
+      - name: TestWorld
+        remote:
+          name: origin
+          url: https://github.com/BarrettTorqueEm/SpaceMarines.git
+        trackingBranch: 
+      - name: v1.0
+        remote:
+          name: origin
+          url: https://github.com/BarrettTorqueEm/SpaceMarines.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/BarrettTorqueEm/SpaceMarines.git
