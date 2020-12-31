@@ -554,7 +554,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 385307593}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 316699097}
+        m_TargetAssemblyTypeName: SM5_Client.UIManager, Assembly-CSharp
+        m_MethodName: Join
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 9999
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &385307593
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1255,14 +1267,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 316699098}
-        m_TargetAssemblyTypeName: SM5_Client.SystemManager, Assembly-CSharp
-        m_MethodName: ChangeLevel
+      - m_Target: {fileID: 316699097}
+        m_TargetAssemblyTypeName: SM5_Client.UIManager, Assembly-CSharp
+        m_MethodName: Join
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 1
+          m_IntArgument: 9998
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
