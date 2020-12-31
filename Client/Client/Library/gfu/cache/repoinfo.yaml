@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-12-30T19:04:59.913-05:00
-  initializedAtString: 2020-12-30T19:04:59.913-05:00
+  lastUpdatedAtString: 2020-12-31T14:05:15.408-05:00
+  initializedAtString: 2020-12-31T14:05:15.408-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/BarrettTorqueEm/SpaceMarines.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: v1.0
-    tracking: origin/v1.0
+    name: TempServer
+    tracking: origin/TempServer
   currentConfigBranch:
-    name: v1.0
+    name: TempServer
     remote:
       name: origin
       url: https://github.com/BarrettTorqueEm/SpaceMarines.git
-    trackingBranch: v1.0
+    trackingBranch: TempServer
   currentConfigRemote:
     name: origin
     url: https://github.com/BarrettTorqueEm/SpaceMarines.git

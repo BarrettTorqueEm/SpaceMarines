@@ -4,7 +4,7 @@
 *Company:    TeamTorqueEmTech
 *Date:       12/29/2020 19:51
 *Version:    0.1
-*Description: 
+*Description: Commands and lodgic to be used while in the UI
 *================================================================*/
 /*===============================================================
 *   AUDIT LOG
@@ -14,6 +14,7 @@
 using UnityEngine;
 using SimpleTcp;
 using BarrettTorqueEm.Utilities;
+using System;
 
 namespace SM5_Client {
     public class UIManager : MonoBehaviour {
@@ -22,15 +23,12 @@ namespace SM5_Client {
         }
 
         public void Join(int port) {
-            LogHandler.LogMessage(LogLevel.Info, this, "Attempting to join " + port);
-            SimpleTcpClient c = new SimpleTcpClient("127.0.0.1", port);
-            c.Connect();
+            if (port != SystemManager.TESTServer || port != SystemManager.PRODServer) {
+                LogHandler.LogMessage(LogLevel.Error, this, $"Invalid port {port}");
+                return;
+            }
 
-            c.Logger = Log;
-        }
-
-        private void Log(string message) {
-            LogHandler.LogMessage(LogLevel.Info, this, message);
+            NetworkManager.instance.InitClient(port);
         }
     }
 }

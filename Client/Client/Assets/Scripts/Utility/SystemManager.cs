@@ -14,9 +14,15 @@
 using UnityEngine;
 using BarrettTorqueEm.Utilities;
 using UnityEngine.SceneManagement;
+using SimpleTcp;
+using System;
 
 namespace SM5_Client {
     public class SystemManager : MonoBehaviour {
+        public const string IP = "38.27.130.133";
+        public const int TESTServer = 65340;
+        public const int PRODServer = 65341;
+
         public static SystemManager instance;
         ///<summary>
         ///Entire system init jobs
@@ -27,7 +33,6 @@ namespace SM5_Client {
             if (instance == null) {
                 instance = this;
             }
-
             DontDestroyOnLoad(this);
         }
 
