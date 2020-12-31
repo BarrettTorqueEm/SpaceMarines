@@ -277,20 +277,14 @@
     <Reference Include="UnityEditor.UWP.Extensions">
         <HintPath>B:/2020.2.0f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="GitHub.Logging">
+        <HintPath>B:/SpaceMarines/Client/Client/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+    </Reference>
     <Reference Include="DotNetZip">
         <HintPath>B:/SpaceMarines/Client/Client/Assets/NuGet/Editor/DotNetZip.dll</HintPath>
     </Reference>
     <Reference Include="SimpleTcp">
         <HintPath>B:/SpaceMarines/Client/Client/Assets/Packages/SuperSimpleTcp.2.2.1/lib/netstandard2.0/SimpleTcp.dll</HintPath>
-    </Reference>
-    <Reference Include="NugetForUnity">
-        <HintPath>B:/SpaceMarines/Client/Client/Assets/NuGet/Editor/NugetForUnity.dll</HintPath>
-    </Reference>
-    <Reference Include="nunit.framework">
-        <HintPath>B:/SpaceMarines/Client/Client/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
-    </Reference>
-    <Reference Include="GitHub.Logging">
-        <HintPath>B:/SpaceMarines/Client/Client/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
     </Reference>
     <Reference Include="sfw.net">
         <HintPath>B:/SpaceMarines/Client/Client/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
@@ -303,6 +297,12 @@
     </Reference>
     <Reference Include="GitHub.Api.45">
         <HintPath>B:/SpaceMarines/Client/Client/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+    </Reference>
+    <Reference Include="NugetForUnity">
+        <HintPath>B:/SpaceMarines/Client/Client/Assets/NuGet/Editor/NugetForUnity.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+        <HintPath>B:/SpaceMarines/Client/Client/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>B:/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

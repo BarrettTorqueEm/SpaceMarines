@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-12-30T17:03:59.145-05:00
-  initializedAtString: 2020-12-30T16:30:14.765-05:00
+  lastUpdatedAtString: 2020-12-30T18:51:59.643-05:00
+  initializedAtString: 2020-12-30T18:51:59.643-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/BarrettTorqueEm/SpaceMarines.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: TestWorld
-    tracking: origin/TestWorld
+    name: v1.0
+    tracking: origin/v1.0
   currentConfigBranch:
-    name: TestWorld
+    name: v1.0
     remote:
       name: origin
       url: https://github.com/BarrettTorqueEm/SpaceMarines.git
-    trackingBranch: TestWorld
+    trackingBranch: v1.0
   currentConfigRemote:
     name: origin
     url: https://github.com/BarrettTorqueEm/SpaceMarines.git
