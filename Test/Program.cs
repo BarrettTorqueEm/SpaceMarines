@@ -8,14 +8,20 @@ namespace Test {
         static void Main(string[] args) {
             Init();
 
+            string t = "";
+            while (t != "QUIT") {
+                t = Console.ReadLine();
 
-            while (Console.ReadLine() != "QUIT") {
                 Console.WriteLine("Say 'QUIT'");
+
+                foreach (string i in server.GetClients()) {
+                    server.Send(i, Encoding.UTF8.GetBytes(t));
+                }
             }
         }
 
         private static void Init() {
-            server = new SimpleTcpServer("127.0.0.1:65340");
+            server = new SimpleTcpServer("192.168.254.100:65340");
 
             server.Events.ClientConnected += ClientConnected;
             server.Events.ClientDisconnected += ClientDisconnected;
