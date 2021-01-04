@@ -13,21 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-12-30T17:08:05.477-05:00
-  initializedAtString: 2020-12-30T16:30:31.349-05:00
+  lastUpdatedAtString: 2020-12-31T16:37:35.917-05:00
+  initializedAtString: 2020-12-31T16:37:35.888-05:00
   localBranches:
-  - name: main
-    tracking: origin/main
-  - name: TestWorld
-    tracking: origin/TestWorld
+  - name: TempServer
+    tracking: origin/TempServer
   - name: v1.0
     tracking: origin/v1.0
   remoteBranches:
+  - name: origin/BaseServer
+    tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
-  - name: origin/main
-    tracking: '[None]'
-  - name: origin/TestWorld
+  - name: origin/TempServer
     tracking: '[None]'
   - name: origin/v1.0
     tracking: '[None]'
@@ -41,20 +39,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - main
-    - TestWorld
+    - TempServer
     - v1.0
     values:
-    - name: main
+    - name: TempServer
       remote:
         name: origin
         url: https://github.com/BarrettTorqueEm/SpaceMarines.git
-      trackingBranch: main
-    - name: TestWorld
-      remote:
-        name: origin
-        url: https://github.com/BarrettTorqueEm/SpaceMarines.git
-      trackingBranch: TestWorld
+      trackingBranch: TempServer
     - name: v1.0
       remote:
         name: origin
@@ -65,23 +57,23 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - BaseServer
       - HEAD
-      - main
-      - TestWorld
+      - TempServer
       - v1.0
     subKeyValues:
     - Values:
+      - name: BaseServer
+        remote:
+          name: origin
+          url: https://github.com/BarrettTorqueEm/SpaceMarines.git
+        trackingBranch: 
       - name: HEAD
         remote:
           name: origin
           url: https://github.com/BarrettTorqueEm/SpaceMarines.git
         trackingBranch: 
-      - name: main
-        remote:
-          name: origin
-          url: https://github.com/BarrettTorqueEm/SpaceMarines.git
-        trackingBranch: 
-      - name: TestWorld
+      - name: TempServer
         remote:
           name: origin
           url: https://github.com/BarrettTorqueEm/SpaceMarines.git

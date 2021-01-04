@@ -30,7 +30,18 @@ namespace BarrettTorqueEm.Utilities {
         /// <param name="Message">Object that is sending the log message.</param>
         /// </summary>
         public static void LogMessage(LogLevel Level, object Sender, string Message) {
-            Debug.Log(Message);
+            switch (Level) {
+                case LogLevel.Warning:
+                    Debug.LogWarning(Message);
+                    break;
+                case LogLevel.Error:
+                case LogLevel.Fatal:
+                    Debug.LogError(Message);
+                    break;
+                default:
+                    Debug.Log(Message);
+                    break;
+            }
             byte[] info = Encoding.UTF8.GetBytes($"[{Level.ToString()}] ({Sender.ToString()} - {DateTime.Now.ToString("HH:mm:ss")}): {Message} \n");
             fs.Write(info, 0, info.Length);
         }
@@ -42,7 +53,18 @@ namespace BarrettTorqueEm.Utilities {
         /// <param name="Message">Object that is sending the log message.</param>
         /// </summary>
         public static void LogMessage(LogLevel Level, string Sender, string Message) {
-            Debug.Log(Message);
+            switch (Level) {
+                case LogLevel.Warning:
+                    Debug.LogWarning(Message);
+                    break;
+                case LogLevel.Error:
+                case LogLevel.Fatal:
+                    Debug.LogError(Message);
+                    break;
+                default:
+                    Debug.Log(Message);
+                    break;
+            }
             byte[] info = Encoding.UTF8.GetBytes($"[{Level.ToString()}] ({Sender} - {DateTime.Now.ToString("HH:mm:ss")}): {Message} \n");
             fs.Write(info, 0, info.Length);
         }

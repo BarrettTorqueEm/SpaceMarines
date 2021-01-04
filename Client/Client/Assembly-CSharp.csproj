@@ -40,6 +40,9 @@
      <Compile Include="Assets\Scripts\Utility\UIManager.cs" />
      <Compile Include="Assets\Scripts\Utility\NetworkManager.cs" />
      <Compile Include="Assets\Scripts\GameLogic\Player.cs" />
+     <Compile Include="Assets\Scripts\Utility\PacketHandler.cs" />
+     <Compile Include="Assets\Scripts\Utility\Client.cs" />
+     <Compile Include="Assets\Scripts\GameLogic\LobbyManager.cs" />
      <None Include="Assets\ProjectPref\Readme.txt" />
      <None Include="Assets\Packages\SuperSimpleTcp.2.2.1\lib\netstandard2.0\SimpleTcp.xml" />
     <Reference Include="UnityEngine">

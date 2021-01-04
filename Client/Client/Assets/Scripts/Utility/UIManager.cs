@@ -15,20 +15,24 @@ using UnityEngine;
 using SimpleTcp;
 using BarrettTorqueEm.Utilities;
 using System;
+using SM5_Client.Net;
 
-namespace SM5_Client {
+namespace SM5_Client.Utilities {
     public class UIManager : MonoBehaviour {
+        public static UIManager instance;
+        public GameObject JoiningImage;
+
+        private void Awake() {
+            if (instance == null)
+                instance = this;
+        }
+
         public void Quit() {
             MenuTools.Quit();
         }
 
         public void Join(int port) {
-            if (port != SystemManager.TESTServer || port != SystemManager.PRODServer) {
-                LogHandler.LogMessage(LogLevel.Error, this, $"Invalid port {port}");
-                return;
-            }
-
-            NetworkManager.instance.InitClient(port);
+            MenuTools.ChangeLevel(1);
         }
     }
 }

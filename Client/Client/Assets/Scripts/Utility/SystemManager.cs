@@ -17,7 +17,7 @@ using UnityEngine.SceneManagement;
 using SimpleTcp;
 using System;
 
-namespace SM5_Client {
+namespace SM5_Client.Utilities {
     public class SystemManager : MonoBehaviour {
         public const string IP = "38.27.130.133";
         public const int TESTServer = 65340;
