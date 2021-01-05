@@ -15,10 +15,12 @@ using SimpleTcp;
 
 namespace SM5_Client.Net {
     public class Client {
-        public SimpleTcpClient TcpClient { get; private set; }
+        public SimpleTcpClient TcpClient { get; set; }
+        public string UName { get; set; }
 
-        public Client(string IPport) {
-            TcpClient = new SimpleTcpClient(IPport);
+        public Client(SimpleTcpClient client) {
+            TcpClient = client;
+            UName = "BarrettTorqueEm";
         }
     }
 }

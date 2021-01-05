@@ -13,96 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-01-03T23:58:09.568-05:00
-  initializedAtString: 2021-01-03T23:08:08.300-05:00
+  lastUpdatedAtString: 2021-01-04T21:47:52.277-05:00
+  initializedAtString: 2021-01-04T16:54:50.037-05:00
   entries:
-  - path: Client\Client\Assembly-CSharp.csproj
-    fullPath: B:\SpaceMarines\Client\Client\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Client\Client\Assets\Animation Clips.meta
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Animation Clips.meta
-    projectPath: Assets\Animation Clips.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Assets\Animation Clips\Text (3).controller
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Animation Clips\Text (3).controller
-    projectPath: Assets\Animation Clips\Text (3).controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Assets\Animation Clips\Text (3).controller.meta
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Animation Clips\Text (3).controller.meta
-    projectPath: Assets\Animation Clips\Text (3).controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Assets\Plugins\BarrettTorqueEm\Utilities\LogHandler.cs
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Plugins\BarrettTorqueEm\Utilities\LogHandler.cs
-    projectPath: Assets\Plugins\BarrettTorqueEm\Utilities\LogHandler.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Client\Client\Assets\Plugins\MiniConsole\Prefabs\Console.prefab
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Plugins\MiniConsole\Prefabs\Console.prefab
-    projectPath: Assets\Plugins\MiniConsole\Prefabs\Console.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Client\Client\Assets\Scenes\Arena.unity.meta
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Scenes\Arena.unity.meta
-    projectPath: Assets\Scenes\Arena.unity.meta
-    originalPath: Client\Client\Assets\Scenes\SampleScene.unity.meta
-    indexStatus: 6
-    workTreeStatus: 0
   - path: Client\Client\Assets\Scenes\Menu.unity
     fullPath: B:\SpaceMarines\Client\Client\Assets\Scenes\Menu.unity
     projectPath: Assets\Scenes\Menu.unity
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Client\Client\Assets\Scenes\SampleScene.unity -> Client\Client\Assets\Scenes\Arena.unity
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Scenes\SampleScene.unity -> Client\Client\Assets\Scenes\Arena.unity
-    projectPath: Assets\Scenes\SampleScene.unity -> Client\Client\Assets\Scenes\Arena.unity
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 3
-  - path: Client\Client\Assets\Scenes\TestWorld.unity
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Scenes\TestWorld.unity
-    projectPath: Assets\Scenes\TestWorld.unity
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Client\Client\Assets\Scenes\TestWorld.unity.meta
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Scenes\TestWorld.unity.meta
-    projectPath: Assets\Scenes\TestWorld.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Client\Client\Assets\Scripts\GameLogic\LobbyManager.cs
     fullPath: B:\SpaceMarines\Client\Client\Assets\Scripts\GameLogic\LobbyManager.cs
     projectPath: Assets\Scripts\GameLogic\LobbyManager.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Assets\Scripts\GameLogic\LobbyManager.cs.meta
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Scripts\GameLogic\LobbyManager.cs.meta
-    projectPath: Assets\Scripts\GameLogic\LobbyManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Assets\Scripts\GameLogic\Player.cs
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Scripts\GameLogic\Player.cs
-    projectPath: Assets\Scripts\GameLogic\Player.cs
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Client\Client\Assets\Scripts\GameLogic\Player.cs.meta
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Scripts\GameLogic\Player.cs.meta
-    projectPath: Assets\Scripts\GameLogic\Player.cs.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -110,32 +32,14 @@ MonoBehaviour:
     fullPath: B:\SpaceMarines\Client\Client\Assets\Scripts\Utility\Client.cs
     projectPath: Assets\Scripts\Utility\Client.cs
     originalPath: 
-    indexStatus: 4
+    indexStatus: 0
     workTreeStatus: 3
-  - path: Client\Client\Assets\Scripts\Utility\Client.cs.meta
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Scripts\Utility\Client.cs.meta
-    projectPath: Assets\Scripts\Utility\Client.cs.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
   - path: Client\Client\Assets\Scripts\Utility\NetworkManager.cs
     fullPath: B:\SpaceMarines\Client\Client\Assets\Scripts\Utility\NetworkManager.cs
     projectPath: Assets\Scripts\Utility\NetworkManager.cs
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
-  - path: Client\Client\Assets\Scripts\Utility\PacketHandler.cs
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Scripts\Utility\PacketHandler.cs
-    projectPath: Assets\Scripts\Utility\PacketHandler.cs
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 3
-  - path: Client\Client\Assets\Scripts\Utility\PacketHandler.cs.meta
-    fullPath: B:\SpaceMarines\Client\Client\Assets\Scripts\Utility\PacketHandler.cs.meta
-    projectPath: Assets\Scripts\Utility\PacketHandler.cs.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
   - path: Client\Client\Assets\Scripts\Utility\SystemManager.cs
     fullPath: B:\SpaceMarines\Client\Client\Assets\Scripts\Utility\SystemManager.cs
     projectPath: Assets\Scripts\Utility\SystemManager.cs
@@ -146,905 +50,317 @@ MonoBehaviour:
     fullPath: B:\SpaceMarines\Client\Client\Assets\Scripts\Utility\UIManager.cs
     projectPath: Assets\Scripts\Utility\UIManager.cs
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Client\Client\Library\ArtifactDB
     fullPath: B:\SpaceMarines\Client\Client\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
-  - path: Client\Client\Library\Artifacts\00\009ff196f463f06aa6bed0991c831ea8
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\00\009ff196f463f06aa6bed0991c831ea8
-    projectPath: Library\Artifacts\00\009ff196f463f06aa6bed0991c831ea8
+  - path: Client\Client\Library\Artifacts\03\03d18e80ed58aed4d4e7ab1b2e53d612
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\03\03d18e80ed58aed4d4e7ab1b2e53d612
+    projectPath: Library\Artifacts\03\03d18e80ed58aed4d4e7ab1b2e53d612
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\00\00d990f5a7d0894ac43c92722913903f
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\00\00d990f5a7d0894ac43c92722913903f
-    projectPath: Library\Artifacts\00\00d990f5a7d0894ac43c92722913903f
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\07\0782cf55e6e347e4cbb994255823c7c6
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\07\0782cf55e6e347e4cbb994255823c7c6
+    projectPath: Library\Artifacts\07\0782cf55e6e347e4cbb994255823c7c6
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\01\01f3edb1c3b2391b00558bfddc7b5275
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\01\01f3edb1c3b2391b00558bfddc7b5275
-    projectPath: Library\Artifacts\01\01f3edb1c3b2391b00558bfddc7b5275
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\0a\0a1a998991dfe099603e8461c952bcbc
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0a\0a1a998991dfe099603e8461c952bcbc
+    projectPath: Library\Artifacts\0a\0a1a998991dfe099603e8461c952bcbc
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\05\05ba791423989d4819d95d8baae2c060
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\05\05ba791423989d4819d95d8baae2c060
-    projectPath: Library\Artifacts\05\05ba791423989d4819d95d8baae2c060
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\06\061d4c6c4a3350c0a9446d113f73561b
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\06\061d4c6c4a3350c0a9446d113f73561b
-    projectPath: Library\Artifacts\06\061d4c6c4a3350c0a9446d113f73561b
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\0a\0a5ad5a2896bef11cc97823f47629214
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0a\0a5ad5a2896bef11cc97823f47629214
-    projectPath: Library\Artifacts\0a\0a5ad5a2896bef11cc97823f47629214
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Client\Client\Library\Artifacts\0b\0b47b31e40efda7332515c7f2d2bfd43
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0b\0b47b31e40efda7332515c7f2d2bfd43
     projectPath: Library\Artifacts\0b\0b47b31e40efda7332515c7f2d2bfd43
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\0c\0c74d44dd99c18e4225fe1d1df0047f8
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0c\0c74d44dd99c18e4225fe1d1df0047f8
-    projectPath: Library\Artifacts\0c\0c74d44dd99c18e4225fe1d1df0047f8
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\0d\0d5d43d573516b38e4b14db985574261
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0d\0d5d43d573516b38e4b14db985574261
-    projectPath: Library\Artifacts\0d\0d5d43d573516b38e4b14db985574261
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\0f\0f70c75299c9a189428724204a04bb6e
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\0f\0f70c75299c9a189428724204a04bb6e
-    projectPath: Library\Artifacts\0f\0f70c75299c9a189428724204a04bb6e
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Client\Client\Library\Artifacts\10\108fb91c67413df1e14b88440a30a672
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\10\108fb91c67413df1e14b88440a30a672
     projectPath: Library\Artifacts\10\108fb91c67413df1e14b88440a30a672
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\16\163571739d3e206e11ea5c7af4cdad12
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\16\163571739d3e206e11ea5c7af4cdad12
-    projectPath: Library\Artifacts\16\163571739d3e206e11ea5c7af4cdad12
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\16\167344946ae198d247b1888ef8464908
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\16\167344946ae198d247b1888ef8464908
-    projectPath: Library\Artifacts\16\167344946ae198d247b1888ef8464908
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\16\16958b6742054d43ce7f3f25e63a2f50
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\16\16958b6742054d43ce7f3f25e63a2f50
-    projectPath: Library\Artifacts\16\16958b6742054d43ce7f3f25e63a2f50
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\1e\1e88d760773091e1751bc623b92f6426
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\1e\1e88d760773091e1751bc623b92f6426
-    projectPath: Library\Artifacts\1e\1e88d760773091e1751bc623b92f6426
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\1f\1f2588ab280aa712123933e8980f96a5
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\1f\1f2588ab280aa712123933e8980f96a5
-    projectPath: Library\Artifacts\1f\1f2588ab280aa712123933e8980f96a5
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Client\Client\Library\Artifacts\10\10fefc43a6235c336924f927dac95534
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\10\10fefc43a6235c336924f927dac95534
+    projectPath: Library\Artifacts\10\10fefc43a6235c336924f927dac95534
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\20\20fde05cd85e095e3bba406a039208d1
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\20\20fde05cd85e095e3bba406a039208d1
-    projectPath: Library\Artifacts\20\20fde05cd85e095e3bba406a039208d1
+  - path: Client\Client\Library\Artifacts\11\11bfab0ec602cb19c4219a3c120623fa
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\11\11bfab0ec602cb19c4219a3c120623fa
+    projectPath: Library\Artifacts\11\11bfab0ec602cb19c4219a3c120623fa
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\21\21c52d6da9cbbdda05ae5bd1e93236de
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\21\21c52d6da9cbbdda05ae5bd1e93236de
-    projectPath: Library\Artifacts\21\21c52d6da9cbbdda05ae5bd1e93236de
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\15\15dde1cb4d1bfd00000a37a112a2acee
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\15\15dde1cb4d1bfd00000a37a112a2acee
+    projectPath: Library\Artifacts\15\15dde1cb4d1bfd00000a37a112a2acee
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\22\2243b23ef044de8fa286137be9572980
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\22\2243b23ef044de8fa286137be9572980
-    projectPath: Library\Artifacts\22\2243b23ef044de8fa286137be9572980
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\17\17e6da91991e25b281ac74af808abfb7
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\17\17e6da91991e25b281ac74af808abfb7
+    projectPath: Library\Artifacts\17\17e6da91991e25b281ac74af808abfb7
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\22\22d5b88dae99fc904a386652b74c6624
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\22\22d5b88dae99fc904a386652b74c6624
+    projectPath: Library\Artifacts\22\22d5b88dae99fc904a386652b74c6624
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Client\Client\Library\Artifacts\24\24de9943c2fa94867a8c69000cd50ad4
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\24\24de9943c2fa94867a8c69000cd50ad4
     projectPath: Library\Artifacts\24\24de9943c2fa94867a8c69000cd50ad4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\25\25cfac2f98e6dc0543badbe9f28c7167
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\25\25cfac2f98e6dc0543badbe9f28c7167
-    projectPath: Library\Artifacts\25\25cfac2f98e6dc0543badbe9f28c7167
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\26\26661d5e269fd0d5f906163ca3397a27
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\26\26661d5e269fd0d5f906163ca3397a27
-    projectPath: Library\Artifacts\26\26661d5e269fd0d5f906163ca3397a27
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\27\27a21772f72672d9a3fa9f7839b80736
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\27\27a21772f72672d9a3fa9f7839b80736
-    projectPath: Library\Artifacts\27\27a21772f72672d9a3fa9f7839b80736
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\27\27b00b2db638c9b6220355b35ec4ada4
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\27\27b00b2db638c9b6220355b35ec4ada4
-    projectPath: Library\Artifacts\27\27b00b2db638c9b6220355b35ec4ada4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\2d\2d0a2f62c3315fba4a4f453ffb93ce79
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\2d\2d0a2f62c3315fba4a4f453ffb93ce79
-    projectPath: Library\Artifacts\2d\2d0a2f62c3315fba4a4f453ffb93ce79
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\2f\2f76335d9c61ec6b3e362d73df8a8f46
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\2f\2f76335d9c61ec6b3e362d73df8a8f46
-    projectPath: Library\Artifacts\2f\2f76335d9c61ec6b3e362d73df8a8f46
+  - path: Client\Client\Library\Artifacts\2a\2a3c4be0bae4bbccb485a4c7a64f6cf0
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\2a\2a3c4be0bae4bbccb485a4c7a64f6cf0
+    projectPath: Library\Artifacts\2a\2a3c4be0bae4bbccb485a4c7a64f6cf0
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\2b\2bf48affe003814f059370966dfffad7
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\2b\2bf48affe003814f059370966dfffad7
+    projectPath: Library\Artifacts\2b\2bf48affe003814f059370966dfffad7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Client\Client\Library\Artifacts\31\3166d942df20a220d0a2737a1e1291c4
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\31\3166d942df20a220d0a2737a1e1291c4
     projectPath: Library\Artifacts\31\3166d942df20a220d0a2737a1e1291c4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\31\316afcaa48f8e603fc1a20b1779d1e3d
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\31\316afcaa48f8e603fc1a20b1779d1e3d
-    projectPath: Library\Artifacts\31\316afcaa48f8e603fc1a20b1779d1e3d
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\31\31e405f3c52705a1559c5913107f52d1
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\31\31e405f3c52705a1559c5913107f52d1
-    projectPath: Library\Artifacts\31\31e405f3c52705a1559c5913107f52d1
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\32\3282a9416cf69684b0dffb8eac13b289
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\32\3282a9416cf69684b0dffb8eac13b289
-    projectPath: Library\Artifacts\32\3282a9416cf69684b0dffb8eac13b289
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\33\333ac17eb80b6905ff9af5ce3d601392
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\33\333ac17eb80b6905ff9af5ce3d601392
-    projectPath: Library\Artifacts\33\333ac17eb80b6905ff9af5ce3d601392
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\33\33dd25f8c289e5cfd47c326985e08ece ->
-      Client\Client\Library\Artifacts\4b\4bf95a47cee5bf62c8d7e0c99cf535f9
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\33\33dd25f8c289e5cfd47c326985e08ece
-      -> Client\Client\Library\Artifacts\4b\4bf95a47cee5bf62c8d7e0c99cf535f9
-    projectPath: Library\Artifacts\33\33dd25f8c289e5cfd47c326985e08ece -> Client\Client\Library\Artifacts\4b\4bf95a47cee5bf62c8d7e0c99cf535f9
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\33\33de4d562c000f5027616b4e54a9abb1
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\33\33de4d562c000f5027616b4e54a9abb1
-    projectPath: Library\Artifacts\33\33de4d562c000f5027616b4e54a9abb1
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\38\38be943b7102d27bfb75a8e43e3c9096
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\38\38be943b7102d27bfb75a8e43e3c9096
-    projectPath: Library\Artifacts\38\38be943b7102d27bfb75a8e43e3c9096
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\3a\3a62b15f8661718da4f58284d1616a17
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3a\3a62b15f8661718da4f58284d1616a17
-    projectPath: Library\Artifacts\3a\3a62b15f8661718da4f58284d1616a17
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\3a\3a838ba7fbe73241caf06366baa086d0
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3a\3a838ba7fbe73241caf06366baa086d0
-    projectPath: Library\Artifacts\3a\3a838ba7fbe73241caf06366baa086d0
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\3a\3ac2bb933c5f1822c9bcc028dd50fa67
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3a\3ac2bb933c5f1822c9bcc028dd50fa67
-    projectPath: Library\Artifacts\3a\3ac2bb933c5f1822c9bcc028dd50fa67
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\3b\3b5646124b3d5ae474dd1d0886625cd4
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3b\3b5646124b3d5ae474dd1d0886625cd4
-    projectPath: Library\Artifacts\3b\3b5646124b3d5ae474dd1d0886625cd4
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\3b\3be4a2a58778be0a69a7c789412c26fd ->
-      Client\Client\Library\Artifacts\f8\f85f3ab7bdccb0ad5a23ca84fa0345a4
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3b\3be4a2a58778be0a69a7c789412c26fd
-      -> Client\Client\Library\Artifacts\f8\f85f3ab7bdccb0ad5a23ca84fa0345a4
-    projectPath: Library\Artifacts\3b\3be4a2a58778be0a69a7c789412c26fd -> Client\Client\Library\Artifacts\f8\f85f3ab7bdccb0ad5a23ca84fa0345a4
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\3c\3cd2a57c6695cec7611310744819bb59
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3c\3cd2a57c6695cec7611310744819bb59
-    projectPath: Library\Artifacts\3c\3cd2a57c6695cec7611310744819bb59
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\3d\3d99135d2996e6a141bd0dff0a0de22b
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3d\3d99135d2996e6a141bd0dff0a0de22b
-    projectPath: Library\Artifacts\3d\3d99135d2996e6a141bd0dff0a0de22b
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\3d\3deaa1debe7b67e1bd41b4e7e23ad06b
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3d\3deaa1debe7b67e1bd41b4e7e23ad06b
-    projectPath: Library\Artifacts\3d\3deaa1debe7b67e1bd41b4e7e23ad06b
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\3e\3e1fb7de917b3af47bc15642d1bda03d
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3e\3e1fb7de917b3af47bc15642d1bda03d
-    projectPath: Library\Artifacts\3e\3e1fb7de917b3af47bc15642d1bda03d
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\41\41a6c8d0fe30836d0b5fb12d477df92a
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\41\41a6c8d0fe30836d0b5fb12d477df92a
-    projectPath: Library\Artifacts\41\41a6c8d0fe30836d0b5fb12d477df92a
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\45\45c86baeb72295d23e0ad72e7e8189f6
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\45\45c86baeb72295d23e0ad72e7e8189f6
-    projectPath: Library\Artifacts\45\45c86baeb72295d23e0ad72e7e8189f6
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\47\4703ec5a200117cc0b3106d2412d6103
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\47\4703ec5a200117cc0b3106d2412d6103
-    projectPath: Library\Artifacts\47\4703ec5a200117cc0b3106d2412d6103
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\47\47f88f46f50211862288742da114f9b1
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\47\47f88f46f50211862288742da114f9b1
-    projectPath: Library\Artifacts\47\47f88f46f50211862288742da114f9b1
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\48\48541418c4be03727ea24b934cd1ffaf
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\48\48541418c4be03727ea24b934cd1ffaf
-    projectPath: Library\Artifacts\48\48541418c4be03727ea24b934cd1ffaf
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\48\48a0c3c84c5e305427db93d1250ea05f
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\48\48a0c3c84c5e305427db93d1250ea05f
-    projectPath: Library\Artifacts\48\48a0c3c84c5e305427db93d1250ea05f
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\4c\4c4aca69539182bf5cf5bbc2d621db7e
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\4c\4c4aca69539182bf5cf5bbc2d621db7e
-    projectPath: Library\Artifacts\4c\4c4aca69539182bf5cf5bbc2d621db7e
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\4c\4c65da9ea4d6dc78ee8207b46ca7de61
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\4c\4c65da9ea4d6dc78ee8207b46ca7de61
-    projectPath: Library\Artifacts\4c\4c65da9ea4d6dc78ee8207b46ca7de61
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\4e\4e3a414651c1d46ed09d35fae36e8bb5
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\4e\4e3a414651c1d46ed09d35fae36e8bb5
-    projectPath: Library\Artifacts\4e\4e3a414651c1d46ed09d35fae36e8bb5
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\4f\4f17262cc517a90c4adc0ae073dc0615
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\4f\4f17262cc517a90c4adc0ae073dc0615
-    projectPath: Library\Artifacts\4f\4f17262cc517a90c4adc0ae073dc0615
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\53\53669c58d7fd2c2a4d086cb1db4a3bf2
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\53\53669c58d7fd2c2a4d086cb1db4a3bf2
-    projectPath: Library\Artifacts\53\53669c58d7fd2c2a4d086cb1db4a3bf2
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\58\5813e5165b533a176f8b400bbc5f6d52
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\58\5813e5165b533a176f8b400bbc5f6d52
-    projectPath: Library\Artifacts\58\5813e5165b533a176f8b400bbc5f6d52
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\59\594712f8dfe50110e7e75cff380219f4
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\59\594712f8dfe50110e7e75cff380219f4
-    projectPath: Library\Artifacts\59\594712f8dfe50110e7e75cff380219f4
+  - path: Client\Client\Library\Artifacts\31\31e69f168fe286da26f6dec60ffd81ac
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\31\31e69f168fe286da26f6dec60ffd81ac
+    projectPath: Library\Artifacts\31\31e69f168fe286da26f6dec60ffd81ac
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\5a\5a75bd72868a6fb4eb353d3a332b48bc
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\5a\5a75bd72868a6fb4eb353d3a332b48bc
-    projectPath: Library\Artifacts\5a\5a75bd72868a6fb4eb353d3a332b48bc
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\35\35f252f27f2ab8516015bf4883768f20
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\35\35f252f27f2ab8516015bf4883768f20
+    projectPath: Library\Artifacts\35\35f252f27f2ab8516015bf4883768f20
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\5a\5a8e7243335fd12651df6c9631617950
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\5a\5a8e7243335fd12651df6c9631617950
-    projectPath: Library\Artifacts\5a\5a8e7243335fd12651df6c9631617950
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\3e\3e354fc1a268eb14f16dce68a0633c5a
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\3e\3e354fc1a268eb14f16dce68a0633c5a
+    projectPath: Library\Artifacts\3e\3e354fc1a268eb14f16dce68a0633c5a
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\61\610ff60870eda8d6cb10a85cc4adcaed
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\61\610ff60870eda8d6cb10a85cc4adcaed
+    projectPath: Library\Artifacts\61\610ff60870eda8d6cb10a85cc4adcaed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\61\616d716dfb6e9ece2f6ffdd01e30a00d
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\61\616d716dfb6e9ece2f6ffdd01e30a00d
+    projectPath: Library\Artifacts\61\616d716dfb6e9ece2f6ffdd01e30a00d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Client\Client\Library\Artifacts\61\619eced78f740696fb59b73c9b143d73
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\61\619eced78f740696fb59b73c9b143d73
     projectPath: Library\Artifacts\61\619eced78f740696fb59b73c9b143d73
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\62\62603be923511d530790033685c7159f
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\62\62603be923511d530790033685c7159f
-    projectPath: Library\Artifacts\62\62603be923511d530790033685c7159f
-    originalPath: Client\Client\Library\Artifacts\20\206a55b8268f5072d825877451fa64fc
-    indexStatus: 6
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\62\62dd4dbea651224b337ef8e35535edfd
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\62\62dd4dbea651224b337ef8e35535edfd
-    projectPath: Library\Artifacts\62\62dd4dbea651224b337ef8e35535edfd
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\63\63c233c8d8e8fd9835196511525f4f24
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\63\63c233c8d8e8fd9835196511525f4f24
-    projectPath: Library\Artifacts\63\63c233c8d8e8fd9835196511525f4f24
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\63\63e42f635896e19f85c2b1bf2edb927f
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\63\63e42f635896e19f85c2b1bf2edb927f
-    projectPath: Library\Artifacts\63\63e42f635896e19f85c2b1bf2edb927f
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\64\64cd218dc842c9fb3ecd31194c6c5fc8
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\64\64cd218dc842c9fb3ecd31194c6c5fc8
-    projectPath: Library\Artifacts\64\64cd218dc842c9fb3ecd31194c6c5fc8
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\68\687689c02ffb8418b287cdd008f7474f
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\68\687689c02ffb8418b287cdd008f7474f
-    projectPath: Library\Artifacts\68\687689c02ffb8418b287cdd008f7474f
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\68\68c807d48770ef3aa365d17fbd481e71
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\68\68c807d48770ef3aa365d17fbd481e71
-    projectPath: Library\Artifacts\68\68c807d48770ef3aa365d17fbd481e71
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\6a\6adce01637ed4ff21c1a1f019278db3d
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\6a\6adce01637ed4ff21c1a1f019278db3d
-    projectPath: Library\Artifacts\6a\6adce01637ed4ff21c1a1f019278db3d
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\6c\6cfaabfc710c445735635b05dd886fbc ->
-      Client\Client\Library\Artifacts\d0\d02ccb012510aaa92ca2b4659cd18992
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\6c\6cfaabfc710c445735635b05dd886fbc
-      -> Client\Client\Library\Artifacts\d0\d02ccb012510aaa92ca2b4659cd18992
-    projectPath: Library\Artifacts\6c\6cfaabfc710c445735635b05dd886fbc -> Client\Client\Library\Artifacts\d0\d02ccb012510aaa92ca2b4659cd18992
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\6d\6d9445068fef8c4f2b37546a256423a1
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\6d\6d9445068fef8c4f2b37546a256423a1
-    projectPath: Library\Artifacts\6d\6d9445068fef8c4f2b37546a256423a1
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\72\72c58e818fcb7208588386f6c5456011
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\72\72c58e818fcb7208588386f6c5456011
-    projectPath: Library\Artifacts\72\72c58e818fcb7208588386f6c5456011
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\73\735604895585696c661cec59ceed2ecd
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\73\735604895585696c661cec59ceed2ecd
-    projectPath: Library\Artifacts\73\735604895585696c661cec59ceed2ecd
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\74\74eb25a60402d66bf5f74764595a15c0
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\74\74eb25a60402d66bf5f74764595a15c0
-    projectPath: Library\Artifacts\74\74eb25a60402d66bf5f74764595a15c0
+  - path: Client\Client\Library\Artifacts\69\692fd39097a20a5d19fa9d7af9e65c23
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\69\692fd39097a20a5d19fa9d7af9e65c23
+    projectPath: Library\Artifacts\69\692fd39097a20a5d19fa9d7af9e65c23
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\75\75dfff46800db32d555ad7fa81f21567
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\75\75dfff46800db32d555ad7fa81f21567
-    projectPath: Library\Artifacts\75\75dfff46800db32d555ad7fa81f21567
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\70\704768c8332c28310609b20b09587ef4
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\70\704768c8332c28310609b20b09587ef4
+    projectPath: Library\Artifacts\70\704768c8332c28310609b20b09587ef4
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\76\7675af2def746e247ddde801020d4eb9
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\76\7675af2def746e247ddde801020d4eb9
-    projectPath: Library\Artifacts\76\7675af2def746e247ddde801020d4eb9
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\75\75641bc3ced2cf49e2e6ce5f1e325a18
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\75\75641bc3ced2cf49e2e6ce5f1e325a18
+    projectPath: Library\Artifacts\75\75641bc3ced2cf49e2e6ce5f1e325a18
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\78\7840aa664a4222ac937fcf322fd583f8
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\78\7840aa664a4222ac937fcf322fd583f8
-    projectPath: Library\Artifacts\78\7840aa664a4222ac937fcf322fd583f8
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Client\Client\Library\Artifacts\78\787ed4e14cb7219d07b6141e489ccaec
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\78\787ed4e14cb7219d07b6141e489ccaec
     projectPath: Library\Artifacts\78\787ed4e14cb7219d07b6141e489ccaec
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\78\78fabef54312fb32ec81483caa246d44
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\78\78fabef54312fb32ec81483caa246d44
-    projectPath: Library\Artifacts\78\78fabef54312fb32ec81483caa246d44
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\79\796fd61386fdf5bf66c3245de6624078
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\79\796fd61386fdf5bf66c3245de6624078
-    projectPath: Library\Artifacts\79\796fd61386fdf5bf66c3245de6624078
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\7a\7a21965060015bcbe1a407b9d9aed8d8 ->
-      Client\Client\Library\Artifacts\dd\ddea6dda2d9dfbd8b7f8801bfb01f9f9
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\7a\7a21965060015bcbe1a407b9d9aed8d8
-      -> Client\Client\Library\Artifacts\dd\ddea6dda2d9dfbd8b7f8801bfb01f9f9
-    projectPath: Library\Artifacts\7a\7a21965060015bcbe1a407b9d9aed8d8 -> Client\Client\Library\Artifacts\dd\ddea6dda2d9dfbd8b7f8801bfb01f9f9
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\7b\7b25daff22f2c45eb01dfb6c26f22458
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\7b\7b25daff22f2c45eb01dfb6c26f22458
-    projectPath: Library\Artifacts\7b\7b25daff22f2c45eb01dfb6c26f22458
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\7d\7da713e5227c234013ea41ad0e252579
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\7d\7da713e5227c234013ea41ad0e252579
-    projectPath: Library\Artifacts\7d\7da713e5227c234013ea41ad0e252579
+  - path: Client\Client\Library\Artifacts\7e\7e48c7664175eea5532e09d29be87fd5
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\7e\7e48c7664175eea5532e09d29be87fd5
+    projectPath: Library\Artifacts\7e\7e48c7664175eea5532e09d29be87fd5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\7e\7edf4e3311e15ad2b5712d90aef9ae09 ->
-      Client\Client\Library\Artifacts\48\48c91f7fa7bff81bdbb858c5c202589b
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\7e\7edf4e3311e15ad2b5712d90aef9ae09
-      -> Client\Client\Library\Artifacts\48\48c91f7fa7bff81bdbb858c5c202589b
-    projectPath: Library\Artifacts\7e\7edf4e3311e15ad2b5712d90aef9ae09 -> Client\Client\Library\Artifacts\48\48c91f7fa7bff81bdbb858c5c202589b
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\7f\7fda62ce7dec2f7f4877da3a08e955ad ->
-      Client\Client\Library\Artifacts\7b\7b262fa9160c0fdcfffb4465a280d09f
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\7f\7fda62ce7dec2f7f4877da3a08e955ad
-      -> Client\Client\Library\Artifacts\7b\7b262fa9160c0fdcfffb4465a280d09f
-    projectPath: Library\Artifacts\7f\7fda62ce7dec2f7f4877da3a08e955ad -> Client\Client\Library\Artifacts\7b\7b262fa9160c0fdcfffb4465a280d09f
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\80\807db71c5803b007c0e9a7a8125137a0
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\80\807db71c5803b007c0e9a7a8125137a0
-    projectPath: Library\Artifacts\80\807db71c5803b007c0e9a7a8125137a0
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\80\80f0f77ba924360c77f219c47de5e988
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\80\80f0f77ba924360c77f219c47de5e988
-    projectPath: Library\Artifacts\80\80f0f77ba924360c77f219c47de5e988
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\83\83288db78891c32eb6dabdcb9f8e793a
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\83\83288db78891c32eb6dabdcb9f8e793a
-    projectPath: Library\Artifacts\83\83288db78891c32eb6dabdcb9f8e793a
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\84\8478ef83b29e4c2691fb3ff9dbb0d1a3
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\84\8478ef83b29e4c2691fb3ff9dbb0d1a3
-    projectPath: Library\Artifacts\84\8478ef83b29e4c2691fb3ff9dbb0d1a3
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\87\878036c164fa956dd76ead83c7c152dc
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\87\878036c164fa956dd76ead83c7c152dc
-    projectPath: Library\Artifacts\87\878036c164fa956dd76ead83c7c152dc
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\88\884eb1df8b055b1d66eca945ada9b700
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\88\884eb1df8b055b1d66eca945ada9b700
-    projectPath: Library\Artifacts\88\884eb1df8b055b1d66eca945ada9b700
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\8b\8b55be40f8ef98c02698fe11fd2fa5a1
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\8b\8b55be40f8ef98c02698fe11fd2fa5a1
-    projectPath: Library\Artifacts\8b\8b55be40f8ef98c02698fe11fd2fa5a1
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\8b\8be96bc6222702fb515dd73b56f2da41
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\8b\8be96bc6222702fb515dd73b56f2da41
-    projectPath: Library\Artifacts\8b\8be96bc6222702fb515dd73b56f2da41
+  - path: Client\Client\Library\Artifacts\7f\7f55a49ecd0164616c0789f182d53d44
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\7f\7f55a49ecd0164616c0789f182d53d44
+    projectPath: Library\Artifacts\7f\7f55a49ecd0164616c0789f182d53d44
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\8c\8c17637e43f3afba050073dcb96dbca3
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\8c\8c17637e43f3afba050073dcb96dbca3
-    projectPath: Library\Artifacts\8c\8c17637e43f3afba050073dcb96dbca3
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\8c\8cc3d67a3de1617432bd0716b7367830
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\8c\8cc3d67a3de1617432bd0716b7367830
-    projectPath: Library\Artifacts\8c\8cc3d67a3de1617432bd0716b7367830
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\8d\8db849247e670f612d384ad3c5885e90
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\8d\8db849247e670f612d384ad3c5885e90
-    projectPath: Library\Artifacts\8d\8db849247e670f612d384ad3c5885e90
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\8f\8fd80e7cc75950fb3e83919b30a0a48c
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\8f\8fd80e7cc75950fb3e83919b30a0a48c
-    projectPath: Library\Artifacts\8f\8fd80e7cc75950fb3e83919b30a0a48c
+  - path: Client\Client\Library\Artifacts\7f\7fe621946a71aa57779563590cbbb915
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\7f\7fe621946a71aa57779563590cbbb915
+    projectPath: Library\Artifacts\7f\7fe621946a71aa57779563590cbbb915
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\97\97fdd35cff628b41119bf704283fdaf2
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\97\97fdd35cff628b41119bf704283fdaf2
-    projectPath: Library\Artifacts\97\97fdd35cff628b41119bf704283fdaf2
+  - path: Client\Client\Library\Artifacts\8f\8f9d156b5fc25d9e1adaf122b82eb412
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\8f\8f9d156b5fc25d9e1adaf122b82eb412
+    projectPath: Library\Artifacts\8f\8f9d156b5fc25d9e1adaf122b82eb412
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\98\98b991120503034d630f8cd015f9cd0d
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\98\98b991120503034d630f8cd015f9cd0d
-    projectPath: Library\Artifacts\98\98b991120503034d630f8cd015f9cd0d
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\95\95c5b24b7cb82d2089ad266a18035307
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\95\95c5b24b7cb82d2089ad266a18035307
+    projectPath: Library\Artifacts\95\95c5b24b7cb82d2089ad266a18035307
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\9b\9b0c01f88070e603e0a6d4e316531750
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9b\9b0c01f88070e603e0a6d4e316531750
-    projectPath: Library\Artifacts\9b\9b0c01f88070e603e0a6d4e316531750
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\98\98d53e978b799e9096905dfe23c670f9
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\98\98d53e978b799e9096905dfe23c670f9
+    projectPath: Library\Artifacts\98\98d53e978b799e9096905dfe23c670f9
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\9b\9b5f76f6321c08dff8cfdec3558fd1f5
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9b\9b5f76f6321c08dff8cfdec3558fd1f5
-    projectPath: Library\Artifacts\9b\9b5f76f6321c08dff8cfdec3558fd1f5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\9a\9ac38a92484d7a3230a2a94953394711
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9a\9ac38a92484d7a3230a2a94953394711
+    projectPath: Library\Artifacts\9a\9ac38a92484d7a3230a2a94953394711
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\9c\9c4b7367d21a7dc8fe741022d564e35c
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9c\9c4b7367d21a7dc8fe741022d564e35c
-    projectPath: Library\Artifacts\9c\9c4b7367d21a7dc8fe741022d564e35c
-    originalPath: 
-    indexStatus: 4
+    indexStatus: 0
     workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\9c\9c5da95a22970830c4d33edb59b9d50b
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9c\9c5da95a22970830c4d33edb59b9d50b
-    projectPath: Library\Artifacts\9c\9c5da95a22970830c4d33edb59b9d50b
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\9c\9c813d49ee7689c70b7b328e549e646f
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9c\9c813d49ee7689c70b7b328e549e646f
-    projectPath: Library\Artifacts\9c\9c813d49ee7689c70b7b328e549e646f
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\9d\9d8e60c905cf763ee70c220c046874a5
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9d\9d8e60c905cf763ee70c220c046874a5
-    projectPath: Library\Artifacts\9d\9d8e60c905cf763ee70c220c046874a5
+  - path: Client\Client\Library\Artifacts\9d\9dd95cb03a20b31888f1a78a169ef6d7
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9d\9dd95cb03a20b31888f1a78a169ef6d7
+    projectPath: Library\Artifacts\9d\9dd95cb03a20b31888f1a78a169ef6d7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\9e\9e54b3133c40a9bc5587b8d79492c169
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9e\9e54b3133c40a9bc5587b8d79492c169
-    projectPath: Library\Artifacts\9e\9e54b3133c40a9bc5587b8d79492c169
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
   - path: Client\Client\Library\Artifacts\9f\9f100647789351bad7785e2731ba72af
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9f\9f100647789351bad7785e2731ba72af
     projectPath: Library\Artifacts\9f\9f100647789351bad7785e2731ba72af
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Client\Client\Library\Artifacts\9f\9f3641405ef52753fd66f3334f8337e4
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\9f\9f3641405ef52753fd66f3334f8337e4
+    projectPath: Library\Artifacts\9f\9f3641405ef52753fd66f3334f8337e4
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\a0\a083d0af41da6b1ea58a8d77c70281ff
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a0\a083d0af41da6b1ea58a8d77c70281ff
-    projectPath: Library\Artifacts\a0\a083d0af41da6b1ea58a8d77c70281ff
+  - path: Client\Client\Library\Artifacts\a0\a01bb9467fa9b94a7b97084379183076
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a0\a01bb9467fa9b94a7b97084379183076
+    projectPath: Library\Artifacts\a0\a01bb9467fa9b94a7b97084379183076
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\a0\a0dd492b2db5af3780d7cc5ae7730f77
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a0\a0dd492b2db5af3780d7cc5ae7730f77
-    projectPath: Library\Artifacts\a0\a0dd492b2db5af3780d7cc5ae7730f77
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\a0\a0bffe22c2149da5de7ecf461a245516
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a0\a0bffe22c2149da5de7ecf461a245516
+    projectPath: Library\Artifacts\a0\a0bffe22c2149da5de7ecf461a245516
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\a2\a2e821988fc48339a5c9744917280cde
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a2\a2e821988fc48339a5c9744917280cde
-    projectPath: Library\Artifacts\a2\a2e821988fc48339a5c9744917280cde
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\a2\a200d5e135dc1bec6e12e247c2ef418c
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a2\a200d5e135dc1bec6e12e247c2ef418c
+    projectPath: Library\Artifacts\a2\a200d5e135dc1bec6e12e247c2ef418c
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\a3\a375ebe5a32df5bb19de5b64bcffea09
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a3\a375ebe5a32df5bb19de5b64bcffea09
-    projectPath: Library\Artifacts\a3\a375ebe5a32df5bb19de5b64bcffea09
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\a6\a6f4d5f54212888803472ae7d34cd848
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a6\a6f4d5f54212888803472ae7d34cd848
+    projectPath: Library\Artifacts\a6\a6f4d5f54212888803472ae7d34cd848
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\a3\a3c6afd6ca51141c4aa6b05ac1883ba0
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a3\a3c6afd6ca51141c4aa6b05ac1883ba0
-    projectPath: Library\Artifacts\a3\a3c6afd6ca51141c4aa6b05ac1883ba0
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\a7\a7979089ea124c987506ebad666b271f
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a7\a7979089ea124c987506ebad666b271f
+    projectPath: Library\Artifacts\a7\a7979089ea124c987506ebad666b271f
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\a5\a50a19f769a3494c736746ef7aa401ca
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a5\a50a19f769a3494c736746ef7aa401ca
-    projectPath: Library\Artifacts\a5\a50a19f769a3494c736746ef7aa401ca
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\a5\a57525355a1501fe84856393c3817288
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a5\a57525355a1501fe84856393c3817288
-    projectPath: Library\Artifacts\a5\a57525355a1501fe84856393c3817288
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\a6\a6510928971190afb999ccbd91c82562
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a6\a6510928971190afb999ccbd91c82562
-    projectPath: Library\Artifacts\a6\a6510928971190afb999ccbd91c82562
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\a7\a795e52f9eb19a3bf227a95210a6de04
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a7\a795e52f9eb19a3bf227a95210a6de04
-    projectPath: Library\Artifacts\a7\a795e52f9eb19a3bf227a95210a6de04
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Client\Client\Library\Artifacts\a9\a9d060f3fc749954a8082cbc9091de21
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a9\a9d060f3fc749954a8082cbc9091de21
     projectPath: Library\Artifacts\a9\a9d060f3fc749954a8082cbc9091de21
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Client\Client\Library\Artifacts\a9\a9e093211bc53c6dbeb433c203572cf5
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\a9\a9e093211bc53c6dbeb433c203572cf5
+    projectPath: Library\Artifacts\a9\a9e093211bc53c6dbeb433c203572cf5
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\b2\b262e473b4f83b482e470cfc92a8ea0b
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b2\b262e473b4f83b482e470cfc92a8ea0b
-    projectPath: Library\Artifacts\b2\b262e473b4f83b482e470cfc92a8ea0b
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\b2\b280a190e25ab60e6bd6d02386f15edb
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b2\b280a190e25ab60e6bd6d02386f15edb
-    projectPath: Library\Artifacts\b2\b280a190e25ab60e6bd6d02386f15edb
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\b3\b3003f5901e2ce5bbe2398afbf5c4c02
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b3\b3003f5901e2ce5bbe2398afbf5c4c02
-    projectPath: Library\Artifacts\b3\b3003f5901e2ce5bbe2398afbf5c4c02
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
   - path: Client\Client\Library\Artifacts\b3\b317d9cb9c6df21212526fb9173da1f2
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b3\b317d9cb9c6df21212526fb9173da1f2
     projectPath: Library\Artifacts\b3\b317d9cb9c6df21212526fb9173da1f2
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\b4\b46546f403c6921719817fed20e9d36e
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b4\b46546f403c6921719817fed20e9d36e
-    projectPath: Library\Artifacts\b4\b46546f403c6921719817fed20e9d36e
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\b5\b545c8fd6c4ab59b4ef5698b9aaf4702
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b5\b545c8fd6c4ab59b4ef5698b9aaf4702
-    projectPath: Library\Artifacts\b5\b545c8fd6c4ab59b4ef5698b9aaf4702
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\b6\b6d12cf0adf61f07eb510a6a7b1fe081
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b6\b6d12cf0adf61f07eb510a6a7b1fe081
-    projectPath: Library\Artifacts\b6\b6d12cf0adf61f07eb510a6a7b1fe081
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\b7\b756589ef9864a92198cede2c7ce152b
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b7\b756589ef9864a92198cede2c7ce152b
-    projectPath: Library\Artifacts\b7\b756589ef9864a92198cede2c7ce152b
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Client\Client\Library\Artifacts\b7\b7e44fb2e89280f876778fdf70971cef
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b7\b7e44fb2e89280f876778fdf70971cef
     projectPath: Library\Artifacts\b7\b7e44fb2e89280f876778fdf70971cef
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\b8\b8f9c3ab68b97c8c7948106370a3d60c
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b8\b8f9c3ab68b97c8c7948106370a3d60c
-    projectPath: Library\Artifacts\b8\b8f9c3ab68b97c8c7948106370a3d60c
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\b9\b9ac8ffcae31343bcaeab3786122267e
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\b9\b9ac8ffcae31343bcaeab3786122267e
-    projectPath: Library\Artifacts\b9\b9ac8ffcae31343bcaeab3786122267e
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\ba\ba0b134048bd260fa9495447d59dfd8f
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\ba\ba0b134048bd260fa9495447d59dfd8f
-    projectPath: Library\Artifacts\ba\ba0b134048bd260fa9495447d59dfd8f
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Client\Client\Library\Artifacts\bc\bc412062f549def551ebc4f945b1979d
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\bc\bc412062f549def551ebc4f945b1979d
+    projectPath: Library\Artifacts\bc\bc412062f549def551ebc4f945b1979d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\ba\ba2d1d60dae8a1aa812b2545cef62585
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\ba\ba2d1d60dae8a1aa812b2545cef62585
-    projectPath: Library\Artifacts\ba\ba2d1d60dae8a1aa812b2545cef62585
+  - path: Client\Client\Library\Artifacts\bc\bc821e25578fb48cc3a4e7ae6b616a30
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\bc\bc821e25578fb48cc3a4e7ae6b616a30
+    projectPath: Library\Artifacts\bc\bc821e25578fb48cc3a4e7ae6b616a30
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Client\Client\Library\Artifacts\bd\bdf022a6142e58d7d6404116dd3ad94c
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\bd\bdf022a6142e58d7d6404116dd3ad94c
     projectPath: Library\Artifacts\bd\bdf022a6142e58d7d6404116dd3ad94c
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Client\Client\Library\Artifacts\c1\c1287c69e7ed2f9a195131d225976463
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c1\c1287c69e7ed2f9a195131d225976463
+    projectPath: Library\Artifacts\c1\c1287c69e7ed2f9a195131d225976463
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\bf\bf6ae2dd2df718d594bc1c021f3b3bd0
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\bf\bf6ae2dd2df718d594bc1c021f3b3bd0
-    projectPath: Library\Artifacts\bf\bf6ae2dd2df718d594bc1c021f3b3bd0
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\c1\c1d870c830168f8a4fe8e152209ea4a7
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c1\c1d870c830168f8a4fe8e152209ea4a7
-    projectPath: Library\Artifacts\c1\c1d870c830168f8a4fe8e152209ea4a7
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\c2\c2d20a5e6492257f99cb4113baa3348b
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c2\c2d20a5e6492257f99cb4113baa3348b
-    projectPath: Library\Artifacts\c2\c2d20a5e6492257f99cb4113baa3348b
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\c3\c381ed8f1e958a258f4a008d26fbe611
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c3\c381ed8f1e958a258f4a008d26fbe611
-    projectPath: Library\Artifacts\c3\c381ed8f1e958a258f4a008d26fbe611
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
   - path: Client\Client\Library\Artifacts\c3\c3f12d9c7d4b07da7f20c673264942ef
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c3\c3f12d9c7d4b07da7f20c673264942ef
     projectPath: Library\Artifacts\c3\c3f12d9c7d4b07da7f20c673264942ef
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\c5\c568a1b99ea6cb7ef5dcb127a82f091c
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c5\c568a1b99ea6cb7ef5dcb127a82f091c
-    projectPath: Library\Artifacts\c5\c568a1b99ea6cb7ef5dcb127a82f091c
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\c5\c5f9cf29fcf46e378ff9d8a4f70f8582
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c5\c5f9cf29fcf46e378ff9d8a4f70f8582
-    projectPath: Library\Artifacts\c5\c5f9cf29fcf46e378ff9d8a4f70f8582
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\c8\c89ba67008760e95ee0cde7eb5e0f6ca
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c8\c89ba67008760e95ee0cde7eb5e0f6ca
-    projectPath: Library\Artifacts\c8\c89ba67008760e95ee0cde7eb5e0f6ca
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\c9\c91cca99df908c7285b19c76dad57b70
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c9\c91cca99df908c7285b19c76dad57b70
-    projectPath: Library\Artifacts\c9\c91cca99df908c7285b19c76dad57b70
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\ca\cac30241d5fbb55d667863dc9463a909
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\ca\cac30241d5fbb55d667863dc9463a909
-    projectPath: Library\Artifacts\ca\cac30241d5fbb55d667863dc9463a909
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\ca\cadd24e17bb90f90e7814cac72acdd3c
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\ca\cadd24e17bb90f90e7814cac72acdd3c
-    projectPath: Library\Artifacts\ca\cadd24e17bb90f90e7814cac72acdd3c
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\cc\cc9de1a28de4da80669e7d22e2c7398b
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\cc\cc9de1a28de4da80669e7d22e2c7398b
-    projectPath: Library\Artifacts\cc\cc9de1a28de4da80669e7d22e2c7398b
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\cc\cc9fc4c445e09a72c2feb30297f324c1
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\cc\cc9fc4c445e09a72c2feb30297f324c1
-    projectPath: Library\Artifacts\cc\cc9fc4c445e09a72c2feb30297f324c1
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\cc\cccb836f5140a25a70a24b45b4166703
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\cc\cccb836f5140a25a70a24b45b4166703
-    projectPath: Library\Artifacts\cc\cccb836f5140a25a70a24b45b4166703
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\cd\cd571f18511a18542a017d44aea8dfcd
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\cd\cd571f18511a18542a017d44aea8dfcd
-    projectPath: Library\Artifacts\cd\cd571f18511a18542a017d44aea8dfcd
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\cd\cdb75edcfe715097ac7dd0f991322f88
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\cd\cdb75edcfe715097ac7dd0f991322f88
-    projectPath: Library\Artifacts\cd\cdb75edcfe715097ac7dd0f991322f88
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\cd\cdc585e3f8207f9eb908022e2e8687fc
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\cd\cdc585e3f8207f9eb908022e2e8687fc
-    projectPath: Library\Artifacts\cd\cdc585e3f8207f9eb908022e2e8687fc
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Client\Client\Library\Artifacts\c5\c5e33704c3472048b608d830bca55319
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c5\c5e33704c3472048b608d830bca55319
+    projectPath: Library\Artifacts\c5\c5e33704c3472048b608d830bca55319
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\ce\ce0b6d79a6de982545db6c924740c09f
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\ce\ce0b6d79a6de982545db6c924740c09f
-    projectPath: Library\Artifacts\ce\ce0b6d79a6de982545db6c924740c09f
+  - path: Client\Client\Library\Artifacts\c6\c69aec7394e291520ce55866a19919bc
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\c6\c69aec7394e291520ce55866a19919bc
+    projectPath: Library\Artifacts\c6\c69aec7394e291520ce55866a19919bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\ca\ca939d599ae582cf0526fcfaa233e84a
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\ca\ca939d599ae582cf0526fcfaa233e84a
+    projectPath: Library\Artifacts\ca\ca939d599ae582cf0526fcfaa233e84a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1052,267 +368,107 @@ MonoBehaviour:
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d1\d1602ff4855ba22410a949be4bdbbb88
     projectPath: Library\Artifacts\d1\d1602ff4855ba22410a949be4bdbbb88
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\d2\d2aea68e004d89634a02c63dd7c5a37e
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d2\d2aea68e004d89634a02c63dd7c5a37e
-    projectPath: Library\Artifacts\d2\d2aea68e004d89634a02c63dd7c5a37e
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\d5\d5a80031ae412441239464206c8be7b4
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d5\d5a80031ae412441239464206c8be7b4
-    projectPath: Library\Artifacts\d5\d5a80031ae412441239464206c8be7b4
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\d8\d83608447fcd6074904c0071f7505751
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d8\d83608447fcd6074904c0071f7505751
-    projectPath: Library\Artifacts\d8\d83608447fcd6074904c0071f7505751
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\d9\d9759f35b905e80fbcd8800d4a23506e
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d9\d9759f35b905e80fbcd8800d4a23506e
-    projectPath: Library\Artifacts\d9\d9759f35b905e80fbcd8800d4a23506e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\da\daba6fc5064bf6d3e1662564ca467f04
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\da\daba6fc5064bf6d3e1662564ca467f04
-    projectPath: Library\Artifacts\da\daba6fc5064bf6d3e1662564ca467f04
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\db\db6bdb8f5a94943ec7459d56e695c13a
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\db\db6bdb8f5a94943ec7459d56e695c13a
-    projectPath: Library\Artifacts\db\db6bdb8f5a94943ec7459d56e695c13a
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\dd\dd681ea1f964a3bc20b3aa0ad1985f99
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\dd\dd681ea1f964a3bc20b3aa0ad1985f99
-    projectPath: Library\Artifacts\dd\dd681ea1f964a3bc20b3aa0ad1985f99
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\de\de4d7a48aa7365936cf44f03bc819a96
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\de\de4d7a48aa7365936cf44f03bc819a96
-    projectPath: Library\Artifacts\de\de4d7a48aa7365936cf44f03bc819a96
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\de\defa24447982f3c869bb35e0ba344da5 ->
-      Client\Client\Library\Artifacts\b2\b2640615e148a4f33f73c3dce1bdc110
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\de\defa24447982f3c869bb35e0ba344da5
-      -> Client\Client\Library\Artifacts\b2\b2640615e148a4f33f73c3dce1bdc110
-    projectPath: Library\Artifacts\de\defa24447982f3c869bb35e0ba344da5 -> Client\Client\Library\Artifacts\b2\b2640615e148a4f33f73c3dce1bdc110
-    originalPath: 
-    indexStatus: 6
+    indexStatus: 0
     workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\df\df120476545d3a4a929a45615765034d
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\df\df120476545d3a4a929a45615765034d
-    projectPath: Library\Artifacts\df\df120476545d3a4a929a45615765034d
+  - path: Client\Client\Library\Artifacts\d3\d318ab2de4064f4cc61c8f461452946b
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d3\d318ab2de4064f4cc61c8f461452946b
+    projectPath: Library\Artifacts\d3\d318ab2de4064f4cc61c8f461452946b
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\d4\d49474f60e0fddb9ae92158ef9fb3b7b
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d4\d49474f60e0fddb9ae92158ef9fb3b7b
+    projectPath: Library\Artifacts\d4\d49474f60e0fddb9ae92158ef9fb3b7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\d7\d757d3b8ff0b6761c2ffd0dfca456584
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\d7\d757d3b8ff0b6761c2ffd0dfca456584
+    projectPath: Library\Artifacts\d7\d757d3b8ff0b6761c2ffd0dfca456584
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Client\Client\Library\Artifacts\df\dfb5e2b1ebf8086372842c26cf13e387
     fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\df\dfb5e2b1ebf8086372842c26cf13e387
     projectPath: Library\Artifacts\df\dfb5e2b1ebf8086372842c26cf13e387
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\df\dff815f18eb8ea48deafad0a9be0b6b9 ->
-      Client\Client\Library\Artifacts\57\57b4bcfcf9496eb54cd8a29ee490078e
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\df\dff815f18eb8ea48deafad0a9be0b6b9
-      -> Client\Client\Library\Artifacts\57\57b4bcfcf9496eb54cd8a29ee490078e
-    projectPath: Library\Artifacts\df\dff815f18eb8ea48deafad0a9be0b6b9 -> Client\Client\Library\Artifacts\57\57b4bcfcf9496eb54cd8a29ee490078e
-    originalPath: 
-    indexStatus: 6
-    workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\e0\e0ca9076ee2337ccd27d34c267046efd
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e0\e0ca9076ee2337ccd27d34c267046efd
-    projectPath: Library\Artifacts\e0\e0ca9076ee2337ccd27d34c267046efd
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\e1\e1cfa40153f82087a4ea6e68433b3219
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e1\e1cfa40153f82087a4ea6e68433b3219
-    projectPath: Library\Artifacts\e1\e1cfa40153f82087a4ea6e68433b3219
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\e4\e491d3323c4aa83c88c1e921fe337145
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e4\e491d3323c4aa83c88c1e921fe337145
-    projectPath: Library\Artifacts\e4\e491d3323c4aa83c88c1e921fe337145
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\e5\e54d76da4b6b695d42d3570c0af446ba
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e5\e54d76da4b6b695d42d3570c0af446ba
-    projectPath: Library\Artifacts\e5\e54d76da4b6b695d42d3570c0af446ba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\e6\e6fa4d4579f10f2198b945620db1535e
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e6\e6fa4d4579f10f2198b945620db1535e
-    projectPath: Library\Artifacts\e6\e6fa4d4579f10f2198b945620db1535e
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\e7\e7d1258c84cce8ee0cc8a92e5309a122
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e7\e7d1258c84cce8ee0cc8a92e5309a122
-    projectPath: Library\Artifacts\e7\e7d1258c84cce8ee0cc8a92e5309a122
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\e7\e7fff81613683679183d6113e4ee0952
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e7\e7fff81613683679183d6113e4ee0952
-    projectPath: Library\Artifacts\e7\e7fff81613683679183d6113e4ee0952
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\e9\e901072e994750fb4e6623c8a022f8ad
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e9\e901072e994750fb4e6623c8a022f8ad
-    projectPath: Library\Artifacts\e9\e901072e994750fb4e6623c8a022f8ad
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\eb\ebf9cb8569fa9056708175ee2ff6b007
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\eb\ebf9cb8569fa9056708175ee2ff6b007
-    projectPath: Library\Artifacts\eb\ebf9cb8569fa9056708175ee2ff6b007
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Client\Client\Library\Artifacts\f0\f0abb65544d3b2f88ac49bcab4803433
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\f0\f0abb65544d3b2f88ac49bcab4803433
-    projectPath: Library\Artifacts\f0\f0abb65544d3b2f88ac49bcab4803433
+  - path: Client\Client\Library\Artifacts\e0\e0fcdf4268c6ebb378ae125abec97d39
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e0\e0fcdf4268c6ebb378ae125abec97d39
+    projectPath: Library\Artifacts\e0\e0fcdf4268c6ebb378ae125abec97d39
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\f0\f0b2def533e4b4134e9dac2279323238
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\f0\f0b2def533e4b4134e9dac2279323238
-    projectPath: Library\Artifacts\f0\f0b2def533e4b4134e9dac2279323238
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\f1\f1400b8290739c10e2f4cab6b90f93d5
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\f1\f1400b8290739c10e2f4cab6b90f93d5
-    projectPath: Library\Artifacts\f1\f1400b8290739c10e2f4cab6b90f93d5
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\f5\f573ef2b194dada26bd3c9d3fee123ed
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\f5\f573ef2b194dada26bd3c9d3fee123ed
-    projectPath: Library\Artifacts\f5\f573ef2b194dada26bd3c9d3fee123ed
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\f5\f5b3e4fad7b373ee8685fb171b0f2e86
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\f5\f5b3e4fad7b373ee8685fb171b0f2e86
-    projectPath: Library\Artifacts\f5\f5b3e4fad7b373ee8685fb171b0f2e86
+  - path: Client\Client\Library\Artifacts\e3\e377e0e9003d55f1d69903567af9dcde
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e3\e377e0e9003d55f1d69903567af9dcde
+    projectPath: Library\Artifacts\e3\e377e0e9003d55f1d69903567af9dcde
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Client\Client\Library\Artifacts\f6\f6024c573e9bc8529f16af15dafc262f
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\f6\f6024c573e9bc8529f16af15dafc262f
-    projectPath: Library\Artifacts\f6\f6024c573e9bc8529f16af15dafc262f
+  - path: Client\Client\Library\Artifacts\e8\e811ef6dff0f39715fc6ddb9b81a9ca7
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\e8\e811ef6dff0f39715fc6ddb9b81a9ca7
+    projectPath: Library\Artifacts\e8\e811ef6dff0f39715fc6ddb9b81a9ca7
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\f7\f72a835eecc75a98960de42f668fd34e
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\f7\f72a835eecc75a98960de42f668fd34e
-    projectPath: Library\Artifacts\f7\f72a835eecc75a98960de42f668fd34e
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\ea\ea7a28a8f70860ff4a0c63d2925ef62d
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\ea\ea7a28a8f70860ff4a0c63d2925ef62d
+    projectPath: Library\Artifacts\ea\ea7a28a8f70860ff4a0c63d2925ef62d
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\f8\f81ba0393dbab14d3c5f0ae965eaf43b
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\f8\f81ba0393dbab14d3c5f0ae965eaf43b
-    projectPath: Library\Artifacts\f8\f81ba0393dbab14d3c5f0ae965eaf43b
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\ea\eaaa5ad0b92605941836e9641cf3272b
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\ea\eaaa5ad0b92605941836e9641cf3272b
+    projectPath: Library\Artifacts\ea\eaaa5ad0b92605941836e9641cf3272b
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\f9\f988e6555db19985dde95ae765f8ca25
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\f9\f988e6555db19985dde95ae765f8ca25
-    projectPath: Library\Artifacts\f9\f988e6555db19985dde95ae765f8ca25
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\ed\ed70ae94610f392bbfc6df18aea95579
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\ed\ed70ae94610f392bbfc6df18aea95579
+    projectPath: Library\Artifacts\ed\ed70ae94610f392bbfc6df18aea95579
     originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\fa\fa44cdeb04183071f8899379031d1ff2
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\fa\fa44cdeb04183071f8899379031d1ff2
-    projectPath: Library\Artifacts\fa\fa44cdeb04183071f8899379031d1ff2
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Client\Client\Library\Artifacts\f3\f37a5ec414c951d0e7ad39236f0ae9ce
+    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\f3\f37a5ec414c951d0e7ad39236f0ae9ce
+    projectPath: Library\Artifacts\f3\f37a5ec414c951d0e7ad39236f0ae9ce
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Client\Client\Library\Artifacts\fc\fc152097da9d1ab481a83f427fe4aa82
-    fullPath: B:\SpaceMarines\Client\Client\Library\Artifacts\fc\fc152097da9d1ab481a83f427fe4aa82
-    projectPath: Library\Artifacts\fc\fc152097da9d1ab481a83f427fe4aa82
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: Client\Client\Library\CurrentLayout-default.dwlt
-    fullPath: B:\SpaceMarines\Client\Client\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Client\Client\Library\EditorInstance.json
     fullPath: B:\SpaceMarines\Client\Client\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Client\Client\Library\EditorUserBuildSettings.asset
     fullPath: B:\SpaceMarines\Client\Client\Library\EditorUserBuildSettings.asset
     projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Client\Client\Library\expandedItems
-    fullPath: B:\SpaceMarines\Client\Client\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Client\Client\Library\gfu\cache\branches.yaml
-    fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
   - path: Client\Client\Library\gfu\cache\gitlocks.yaml
     fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
-  - path: Client\Client\Library\gfu\cache\gitlog.yaml
-    fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
   - path: Client\Client\Library\gfu\cache\gitstatusentries.yaml
     fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Client\Client\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Client\Client\Library\gfu\cache\repoinfo.yaml
     fullPath: B:\SpaceMarines\Client\Client\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Client\Client\Library\InspectorExpandedItems.asset
-    fullPath: B:\SpaceMarines\Client\Client\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1320,79 +476,37 @@ MonoBehaviour:
     fullPath: B:\SpaceMarines\Client\Client\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Client\Client\Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: B:\SpaceMarines\Client\Client\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Client\Client\Library\ScriptAssemblies\Assembly-CSharp.pdb
     fullPath: B:\SpaceMarines\Client\Client\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Client\Client\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
-    fullPath: B:\SpaceMarines\Client\Client\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Client\Client\Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
-    fullPath: B:\SpaceMarines\Client\Client\Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Client\Client\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: B:\SpaceMarines\Client\Client\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 3
     workTreeStatus: 3
   - path: Client\Client\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: B:\SpaceMarines\Client\Client\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Client\Client\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: B:\SpaceMarines\Client\Client\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Client\Client\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: B:\SpaceMarines\Client\Client\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Client\Client\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: B:\SpaceMarines\Client\Client\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Client\Client\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: B:\SpaceMarines\Client\Client\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Client\Client\Library\SourceAssetDB
     fullPath: B:\SpaceMarines\Client\Client\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Client\Client\Library\StateCache\MainStageHierarchy\45\45e08d13e566c1beee85d215812a251e.json
     fullPath: B:\SpaceMarines\Client\Client\Library\StateCache\MainStageHierarchy\45\45e08d13e566c1beee85d215812a251e.json
     projectPath: Library\StateCache\MainStageHierarchy\45\45e08d13e566c1beee85d215812a251e.json
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Client\Client\Library\StateCache\SceneView\51\518ab5e344985c1b77181cf2cde6a734.json
     fullPath: B:\SpaceMarines\Client\Client\Library\StateCache\SceneView\51\518ab5e344985c1b77181cf2cde6a734.json
@@ -1410,19 +524,13 @@ MonoBehaviour:
     fullPath: B:\SpaceMarines\Client\Client\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 4
+    indexStatus: 0
     workTreeStatus: 3
   - path: Client\Client\Logs\AssetImportWorker0-prev.log
     fullPath: B:\SpaceMarines\Client\Client\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 3
-  - path: Client\Client\ProjectSettings\EditorBuildSettings.asset
-    fullPath: B:\SpaceMarines\Client\Client\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Client\Client\UserSettings\EditorUserSettings.asset
     fullPath: B:\SpaceMarines\Client\Client\UserSettings\EditorUserSettings.asset
@@ -1430,87 +538,3 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PROD_Server\bin\Debug\net4.8\PROD_Server.exe
-    fullPath: B:\SpaceMarines\PROD_Server\bin\Debug\net4.8\PROD_Server.exe
-    projectPath: ..\..\PROD_Server\bin\Debug\net4.8\PROD_Server.exe
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 3
-  - path: PROD_Server\bin\Debug\net4.8\PROD_Server.exe.config
-    fullPath: B:\SpaceMarines\PROD_Server\bin\Debug\net4.8\PROD_Server.exe.config
-    projectPath: ..\..\PROD_Server\bin\Debug\net4.8\PROD_Server.exe.config
-    originalPath: TEST_Server\bin\Debug\net4.8\Test.exe.config
-    indexStatus: 6
-    workTreeStatus: 0
-  - path: PROD_Server\bin\Debug\net4.8\PROD_Server.pdb
-    fullPath: B:\SpaceMarines\PROD_Server\bin\Debug\net4.8\PROD_Server.pdb
-    projectPath: ..\..\PROD_Server\bin\Debug\net4.8\PROD_Server.pdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 3
-  - path: PROD_Server\Client.cs
-    fullPath: B:\SpaceMarines\PROD_Server\Client.cs
-    projectPath: ..\..\PROD_Server\Client.cs
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: PROD_Server\LogHandler.cs
-    fullPath: B:\SpaceMarines\PROD_Server\LogHandler.cs
-    projectPath: ..\..\PROD_Server\LogHandler.cs
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: PROD_Server\LogLevel.cs
-    fullPath: B:\SpaceMarines\PROD_Server\LogLevel.cs
-    projectPath: ..\..\PROD_Server\LogLevel.cs
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: PROD_Server\PacketHandler.cs
-    fullPath: B:\SpaceMarines\PROD_Server\PacketHandler.cs
-    projectPath: ..\..\PROD_Server\PacketHandler.cs
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 3
-  - path: PROD_Server\Program.cs
-    fullPath: B:\SpaceMarines\PROD_Server\Program.cs
-    projectPath: ..\..\PROD_Server\Program.cs
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: PROD_Server\Server.cs
-    fullPath: B:\SpaceMarines\PROD_Server\Server.cs
-    projectPath: ..\..\PROD_Server\Server.cs
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: TEST_Server\bin\Debug\net4.8\SimpleTcp.dll
-    fullPath: B:\SpaceMarines\TEST_Server\bin\Debug\net4.8\SimpleTcp.dll
-    projectPath: ..\..\TEST_Server\bin\Debug\net4.8\SimpleTcp.dll
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: TEST_Server\bin\Debug\net4.8\Test.exe
-    fullPath: B:\SpaceMarines\TEST_Server\bin\Debug\net4.8\Test.exe
-    projectPath: ..\..\TEST_Server\bin\Debug\net4.8\Test.exe
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: TEST_Server\bin\Debug\net4.8\Test.pdb
-    fullPath: B:\SpaceMarines\TEST_Server\bin\Debug\net4.8\Test.pdb
-    projectPath: ..\..\TEST_Server\bin\Debug\net4.8\Test.pdb
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: TEST_Server\Program.cs
-    fullPath: B:\SpaceMarines\TEST_Server\Program.cs
-    projectPath: ..\..\TEST_Server\Program.cs
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: TEST_Server\TEST_Server.csproj
-    fullPath: B:\SpaceMarines\TEST_Server\TEST_Server.csproj
-    projectPath: ..\..\TEST_Server\TEST_Server.csproj
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0

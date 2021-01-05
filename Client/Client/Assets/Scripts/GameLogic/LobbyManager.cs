@@ -20,25 +20,27 @@ using UnityEngine;
 
 namespace SM5_Client.Utilities {
     public class LobbyManager : MonoBehaviour {
+        public static LobbyManager instance;
         public List<Player> ListOfPlayers = new List<Player>();
 
         [SerializeField] private GameObject PlayerPrefab;
 
-        private Player p;
-        private void Start() {
-            p = Instantiate(PlayerPrefab, Vector3.zero, Quaternion.identity).GetComponent<Player>();
-            p.client = new Client(SystemManager.IP + ":" + SystemManager.PRODServer);
+        private void Awake() {
+            if (instance == null)
+                instance = this;
 
-            if (NetworkManager.instance.Join(p.client))
-                p.client.TcpClient.Send("99999:BarrettTorqueEm");
-            else {
-                LogHandler.LogMessage(LogLevel.Warning, this, "Could not connect to the server.");
-                MenuTools.ChangeLevel(0);
-            }
         }
+        private void Start() {
+            GameObject go = Instantiate(PlayerPrefab, Vector3.zero, Quaternion.identity);
 
-        private IEnumerator Test() {
-            yield return new WaitUntil(() => NetworkManager.instance.Join(p.client) || !NetworkManager.instance.Join(p.client));
+            if (NetworkManager.instance.client.IsConnected)
+                go.GetComponent<Player>().client = new Client(NetworkManager.instance.client);
+            else
+                LogHandler.LogMessage(LogLevel.Warning, this, "Client not connected");
+
+            go.name = go.GetComponent<Player>().client.UName;
+
+            NetworkManager.instance.SendWelcome(go);
         }
     }
 }

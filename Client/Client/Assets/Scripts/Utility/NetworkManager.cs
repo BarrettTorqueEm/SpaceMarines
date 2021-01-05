@@ -18,13 +18,14 @@ using System;
 using System.Collections;
 using System.Text;
 using System.Net.Sockets;
+using SM5_Client.Entities;
 using SM5_Client.Utilities;
 
 namespace SM5_Client.Net {
     public class NetworkManager : MonoBehaviour {
         public static NetworkManager instance;
+        public SimpleTcpClient client;
 
-        private SimpleTcpClient client;
         private void Awake() {
             if (instance == null) {
                 instance = this;
@@ -32,19 +33,7 @@ namespace SM5_Client.Net {
             DontDestroyOnLoad(this);
         }
 
-        // public void TestConnection() {
-        //     Join(new Client(SystemManager.IP + ":" + SystemManager.PRODServer));
-
-        //     if (client.IsConnected) {
-        //         client.Disconnect();
-        //         SystemManager.instance.ChangeLevel(2);
-        //     } else {
-        //         LogHandler.LogMessage(LogLevel.Warning, this, "Could not connect to server.");
-        //     }
-        // }
-
-        public bool Join(Client c) {
-            SimpleTcpClient client = c.TcpClient;
+        public void Join() {
             try {
                 client = new SimpleTcpClient(SystemManager.IP, SystemManager.PRODServer);
 
@@ -59,9 +48,12 @@ namespace SM5_Client.Net {
             } catch (SocketException e) {
                 LogHandler.LogMessage(LogLevel.Warning, this, e.Message);
                 StopCoroutine(AwaitConnection());
+                UIManager.ChangeLevel(0);
             }
+        }
 
-            return client.IsConnected;
+        public void SendWelcome(GameObject go) {
+            client = go.GetComponent<Player>().client.TcpClient;
         }
 
         private IEnumerator AwaitConnection() {

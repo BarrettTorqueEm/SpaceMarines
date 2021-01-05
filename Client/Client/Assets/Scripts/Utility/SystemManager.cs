@@ -11,17 +11,16 @@
 *
 *
 *================================================================*/
-using UnityEngine;
 using BarrettTorqueEm.Utilities;
-using UnityEngine.SceneManagement;
 using SimpleTcp;
+using SM5_Client.Net;
 using System;
+using UnityEngine;
 
 namespace SM5_Client.Utilities {
     public class SystemManager : MonoBehaviour {
-        public const string IP = "38.27.130.133";
-        public const int TESTServer = 65340;
-        public const int PRODServer = 65341;
+        public static string IP = "38.27.130.133";
+        public static int PRODServer = 65341;
 
         public static SystemManager instance;
         ///<summary>
@@ -34,12 +33,6 @@ namespace SM5_Client.Utilities {
                 instance = this;
             }
             DontDestroyOnLoad(this);
-        }
-
-        public void ChangeLevel(int BuildIndex) {
-            //FIXME: Scene name not printing correctly?
-            LogHandler.LogMessage(LogLevel.Info, this, $"Changing level from {SceneManager.GetActiveScene().name} to {BuildIndex} {SceneManager.GetSceneByBuildIndex(BuildIndex).name}");
-            SceneManager.LoadScene(BuildIndex);
         }
 
         private void OnApplicationQuit() {

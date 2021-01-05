@@ -11,11 +11,12 @@
 *
 *
 *================================================================*/
-using UnityEngine;
-using SimpleTcp;
 using BarrettTorqueEm.Utilities;
-using System;
+using SimpleTcp;
 using SM5_Client.Net;
+using System;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace SM5_Client.Utilities {
     public class UIManager : MonoBehaviour {
@@ -25,14 +26,22 @@ namespace SM5_Client.Utilities {
         private void Awake() {
             if (instance == null)
                 instance = this;
+
+            DontDestroyOnLoad(this.gameObject);
         }
 
-        public void Quit() {
+        public static void ChangeLevel(int BuildIndex) {
+            SceneManager.sceneLoaded += OnSceneLoaded;
+            MenuTools.ChangeLevel(BuildIndex);
+        }
+
+        private static void OnSceneLoaded(Scene scene, LoadSceneMode mode) {
+            if (scene.buildIndex == 1)
+                NetworkManager.instance.Join();
+        }
+
+        public static void Quit() {
             MenuTools.Quit();
-        }
-
-        public void Join(int port) {
-            MenuTools.ChangeLevel(1);
         }
     }
 }
