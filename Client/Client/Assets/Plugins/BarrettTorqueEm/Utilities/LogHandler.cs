@@ -9,7 +9,7 @@
 
 /*==============================================================
 *	Audit Log:
-*	
+*	    -#1.4 Added Unity Debug log/log error lines
 *
 *
 *===============================================================*/
@@ -30,6 +30,7 @@ namespace BarrettTorqueEm.Utilities {
         /// <param name="Message">Object that is sending the log message.</param>
         /// </summary>
         public static void LogMessage(LogLevel Level, object Sender, string Message) {
+            // #1.4
             switch (Level) {
                 case LogLevel.Warning:
                     Debug.LogWarning(Message);
@@ -38,6 +39,7 @@ namespace BarrettTorqueEm.Utilities {
                 case LogLevel.Fatal:
                     Debug.LogError(Message);
                     break;
+
                 default:
                     Debug.Log(Message);
                     break;
@@ -53,6 +55,7 @@ namespace BarrettTorqueEm.Utilities {
         /// <param name="Message">Object that is sending the log message.</param>
         /// </summary>
         public static void LogMessage(LogLevel Level, string Sender, string Message) {
+            // #1.4
             switch (Level) {
                 case LogLevel.Warning:
                     Debug.LogWarning(Message);
@@ -61,12 +64,13 @@ namespace BarrettTorqueEm.Utilities {
                 case LogLevel.Fatal:
                     Debug.LogError(Message);
                     break;
+
                 default:
                     Debug.Log(Message);
                     break;
             }
             byte[] info = Encoding.UTF8.GetBytes($"[{Level.ToString()}] ({Sender} - {DateTime.Now.ToString("HH:mm:ss")}): {Message} \n");
-            fs.Write(info, 0, info.Length);
+            //fs.Write(info, 0, info.Length);
         }
 
         /// <summary>

@@ -10,6 +10,6 @@ class Client {
 
     public void SetName(string Uname) {
         if (UName == null)
-            UName = Uname;
+            UName = "BOB";
     }
 }

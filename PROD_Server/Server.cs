@@ -50,8 +50,6 @@ class Server {
         server.Events.DataReceived += DataReceived;
         server.Logger = Log;
 
-        PacketHandler.Init();
-
         server.Start();
         isRunning = true;
         DisplayMenu();
@@ -74,7 +72,9 @@ class Server {
     }
 
     private static void DataReceived(object sender, DataReceivedEventArgs e) {
-        Console.WriteLine("Client said: " + Encoding.UTF8.GetString(e.Data));
+        PacketType t;
+        LogHandler.LogMessage(LogLevel.Debug, sender, PacketHandler.GetString(e.Data, out t) + " || " + t.ToString());
+        // Console.WriteLine("Client said: " + Encoding.UTF8.GetString(e.Data));
     }
     private static void PrintStatus() {
         int count = 0;
@@ -95,6 +95,7 @@ class Server {
         LogHandler.LogMessage(LogLevel.Info, "Program.cs", msg);
     }
 
+    //FIXME: Doesnt list
     private static void ListClients() {
         string msg = $"Clients ({clients.Count}): \n";
 
@@ -104,9 +105,12 @@ class Server {
         }
 
         foreach (string ip in server.GetClients()) {
-            foreach (Client c in clients)
+            Console.WriteLine(ip);
+            foreach (Client c in clients) {
+                msg += "\t" + c.IPport;
                 if (c.IPport == ip)
                     msg += $"\t{c.UName}";
+            }
         }
         LogHandler.LogMessage(LogLevel.Info, "Server.cs", msg);
     }
