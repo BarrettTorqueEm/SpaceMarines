@@ -55,7 +55,7 @@ namespace SM5_Client.Net {
         public void SendWelcome(GameObject go) {
             client = go.GetComponent<Player>().client.TcpClient;
 
-            client.Send(PacketHandler.GetBytes(1234567890));
+            client.Send(PacketHandler.GetBytes("uname:BarrettTorqueEm"));
         }
 
         private IEnumerator AwaitConnection() {

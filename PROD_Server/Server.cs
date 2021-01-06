@@ -73,9 +73,24 @@ class Server {
 
     private static void DataReceived(object sender, DataReceivedEventArgs e) {
         PacketType t;
-        LogHandler.LogMessage(LogLevel.Debug, sender, PacketHandler.GetString(e.Data, out t) + " || " + t.ToString());
-        // Console.WriteLine("Client said: " + Encoding.UTF8.GetString(e.Data));
+        ParsePacket(Encoding.UTF8.GetString(e.Data));
+        // LogHandler.LogMessage(LogLevel.Debug, sender, PacketHandler.GetString(e.Data, out t) + " || " + t.ToString());
+        Console.WriteLine("Client said: " + Encoding.UTF8.GetString(e.Data));
     }
+
+    private static void ParsePacket(string v) {
+        if (v.Contains(":")) {
+            string[] message = v.Split(':');
+            Console.WriteLine($"type: {message[0]} message: {message[1]}");
+
+            switch (message[0]) {
+                case "uname":
+                    clients[0].UName = message[1];
+                    break;
+            }
+        }
+    }
+
     private static void PrintStatus() {
         int count = 0;
 
@@ -107,9 +122,7 @@ class Server {
         foreach (string ip in server.GetClients()) {
             Console.WriteLine(ip);
             foreach (Client c in clients) {
-                msg += "\t" + c.IPport;
-                if (c.IPport == ip)
-                    msg += $"\t{c.UName}";
+                msg += $"\t{c.UName}";
             }
         }
         LogHandler.LogMessage(LogLevel.Info, "Server.cs", msg);
